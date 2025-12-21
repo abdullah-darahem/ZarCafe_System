@@ -30,8 +30,6 @@ public E__Admin_USERS() {
     // Load the list of all customers when the page first opens
     loadAllUsers();
     
-    // Hide the old overlapping table if it exists (for visual appearance)
-    if (tbl_orders1 != null) tbl_orders1.setVisible(false);
 }
 
 // This method loads all customers into the left-side table
@@ -264,8 +262,6 @@ public void designTables() {
         jScrollPane1 = new javax.swing.JScrollPane();
         tbl_users = new javax.swing.JTable();
         jLabel4 = new javax.swing.JLabel();
-        jScrollPane2 = new javax.swing.JScrollPane();
-        tbl_orders1 = new javax.swing.JTable();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -424,49 +420,6 @@ public void designTables() {
         jLabel4.setText("jLabel4");
         jPanel1.add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(-30, 0, 1020, 850));
 
-        tbl_orders1.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
-        tbl_orders1.setModel(new javax.swing.table.DefaultTableModel(
-            new Object [][] {
-                {null, null, null, null, null, null},
-                {null, null, null, null, null, null},
-                {null, null, null, null, null, null},
-                {null, null, null, null, null, null}
-            },
-            new String [] {
-                "ID", "Name", "Price", "Stock", "Revenue", "Status"
-            }
-        ) {
-            Class[] types = new Class [] {
-                java.lang.Integer.class, java.lang.String.class, java.lang.Double.class, java.lang.Double.class, java.lang.Object.class, java.lang.Object.class
-            };
-            boolean[] canEdit = new boolean [] {
-                false, false, false, false, true, true
-            };
-
-            public Class getColumnClass(int columnIndex) {
-                return types [columnIndex];
-            }
-
-            public boolean isCellEditable(int rowIndex, int columnIndex) {
-                return canEdit [columnIndex];
-            }
-        });
-        tbl_orders1.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                tbl_orders1MouseClicked(evt);
-            }
-        });
-        jScrollPane2.setViewportView(tbl_orders1);
-        if (tbl_orders1.getColumnModel().getColumnCount() > 0) {
-            tbl_orders1.getColumnModel().getColumn(2).setResizable(false);
-            tbl_orders1.getColumnModel().getColumn(3).setResizable(false);
-            tbl_orders1.getColumnModel().getColumn(3).setHeaderValue("Stock");
-            tbl_orders1.getColumnModel().getColumn(4).setHeaderValue("Revenue");
-            tbl_orders1.getColumnModel().getColumn(5).setHeaderValue("Status");
-        }
-
-        jPanel1.add(jScrollPane2, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 120, 910, 370));
-
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
@@ -595,10 +548,6 @@ if (selectedUserId == 0) {
         
     }//GEN-LAST:event_btnDeleteActionPerformed
 
-    private void tbl_orders1MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_tbl_orders1MouseClicked
-        // TODO add your handling code here:
-    }//GEN-LAST:event_tbl_orders1MouseClicked
-
     private void tblHistoryMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_tblHistoryMouseClicked
         // TODO add your handling code here:
  int index = tblHistory.getSelectedRow();
@@ -653,10 +602,8 @@ if (selectedUserId == 0) {
     private javax.swing.JLabel jLabel4;
     private javax.swing.JPanel jPanel1;
     private javax.swing.JScrollPane jScrollPane1;
-    private javax.swing.JScrollPane jScrollPane2;
     private javax.swing.JScrollPane jScrollPane3;
     private javax.swing.JTable tblHistory;
-    private javax.swing.JTable tbl_orders1;
     private javax.swing.JTable tbl_users;
     // End of variables declaration//GEN-END:variables
 
