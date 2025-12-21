@@ -46,10 +46,6 @@ public class B__Signup extends javax.swing.JFrame {
         chk_show_pass.setForeground(new java.awt.Color(102, 51, 0)); // Set text color to brown
         chk_show_pass.setFont(new java.awt.Font("Segoe UI", java.awt.Font.BOLD, 12)); // Set font style
 
-        // Style "show confirm password" checkbox
-        chk_show_confirm.setOpaque(false);
-        chk_show_confirm.setForeground(new java.awt.Color(102, 51, 0));
-        chk_show_confirm.setFont(new java.awt.Font("Segoe UI", java.awt.Font.BOLD, 12));
 
         // Apply custom style to buttons
         styleButton(btn_signup);
@@ -91,7 +87,6 @@ public class B__Signup extends javax.swing.JFrame {
         jLabel4 = new javax.swing.JLabel();
         jLabel5 = new javax.swing.JLabel();
         jLabel6 = new javax.swing.JLabel();
-        chk_show_confirm = new javax.swing.JCheckBox();
         chk_show_pass = new javax.swing.JCheckBox();
         txt_password = new javax.swing.JPasswordField();
         txt_confirm_pass = new javax.swing.JPasswordField();
@@ -156,15 +151,6 @@ public class B__Signup extends javax.swing.JFrame {
         jLabel6.setText("Phone Number:");
         jPanel1.add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(570, 560, 140, -1));
 
-        chk_show_confirm.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
-        chk_show_confirm.setText("show password");
-        chk_show_confirm.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                chk_show_confirmActionPerformed(evt);
-            }
-        });
-        jPanel1.add(chk_show_confirm, new org.netbeans.lib.awtextra.AbsoluteConstraints(740, 530, -1, -1));
-
         chk_show_pass.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         chk_show_pass.setText("show password");
         chk_show_pass.addActionListener(new java.awt.event.ActionListener() {
@@ -174,6 +160,12 @@ public class B__Signup extends javax.swing.JFrame {
         });
         jPanel1.add(chk_show_pass, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 530, -1, -1));
         jPanel1.add(txt_password, new org.netbeans.lib.awtextra.AbsoluteConstraints(410, 490, 260, 40));
+
+        txt_confirm_pass.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                txt_confirm_passActionPerformed(evt);
+            }
+        });
         jPanel1.add(txt_confirm_pass, new org.netbeans.lib.awtextra.AbsoluteConstraints(740, 490, 260, 40));
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/basicc.jpeg"))); // NOI18N
@@ -194,26 +186,17 @@ public class B__Signup extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 private boolean show = false;
     private void chk_show_passActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_chk_show_passActionPerformed
-        if (!show) {
+if (!show) {
+            // إظهار النص في الخانتين
             txt_password.setEchoChar((char) 0);
-            show = true;
-
-        } else {
-            txt_password.setEchoChar('*');
-            show = false;
-        }
-    }//GEN-LAST:event_chk_show_passActionPerformed
-
-    private void chk_show_confirmActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_chk_show_confirmActionPerformed
-        if (!show) {
             txt_confirm_pass.setEchoChar((char) 0);
             show = true;
-
         } else {
+            // إخفاء النص في الخانتين
+            txt_password.setEchoChar('*');
             txt_confirm_pass.setEchoChar('*');
             show = false;
-        }
-    }//GEN-LAST:event_chk_show_confirmActionPerformed
+        }    }//GEN-LAST:event_chk_show_passActionPerformed
 
     private void txt_phoneActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txt_phoneActionPerformed
         // TODO add your handling code here:
@@ -313,6 +296,10 @@ private boolean show = false;
         }     
     }//GEN-LAST:event_txt_phoneKeyTyped
 
+    private void txt_confirm_passActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_txt_confirm_passActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_txt_confirm_passActionPerformed
+
     /**
      * @param args the command line arguments
      */
@@ -340,7 +327,6 @@ private boolean show = false;
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton btn_signup;
-    private javax.swing.JCheckBox chk_show_confirm;
     private javax.swing.JCheckBox chk_show_pass;
     private javax.swing.JButton jButton3;
     private javax.swing.JLabel jLabel1;

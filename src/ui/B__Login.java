@@ -199,10 +199,10 @@ public class B__Login extends javax.swing.JFrame {
            // Check the user's role to determine which interface to open
            if (role != null && role.equalsIgnoreCase("Admin")) {
                // Open admin interface if user is admin
-               new E__Admin().setVisible(true); 
+               new E__Admin_1().setVisible(true); 
            } else {
                // Open regular order interface for regular users, passing phone number
-               new D__Order(phone).setVisible(true); 
+               new D__User_ORDERS(phone).setVisible(true); 
            }
            
        } else {
