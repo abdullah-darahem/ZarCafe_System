@@ -237,8 +237,7 @@ if (!show) {
                 JOptionPane.showMessageDialog(this, "Phone number already exists! Please Login");
             } else {
                 // Insert new customer data into the database
-                String insertSql = "INSERT INTO Customers (USER_NAME, PHONE_NUMBER, PASSWORD, CUSTOMER_ADDRESS, ROLE, GENDER) VALUES (?, ?, ?, ?, 'User', 'Male')";
-                PreparedStatement pst = con.prepareStatement(insertSql);
+String insertSql = "INSERT INTO Customers (USER_NAME, PHONE_NUMBER, PASSWORD, CUSTOMER_ADDRESS, ROLE) VALUES (?, ?, ?, ?, 'User')";                PreparedStatement pst = con.prepareStatement(insertSql);
 
                 // Set customer values
                 pst.setString(1, name);
