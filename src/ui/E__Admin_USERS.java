@@ -250,7 +250,7 @@ public void designTables() {
 
         jPanel1 = new javax.swing.JPanel();
         jButton6 = new javax.swing.JButton();
-        btnSave = new javax.swing.JButton();
+        btnAdd = new javax.swing.JButton();
         btnUpdate = new javax.swing.JButton();
         btnDelete = new javax.swing.JButton();
         jButton5 = new javax.swing.JButton();
@@ -277,16 +277,16 @@ public void designTables() {
         });
         jPanel1.add(jButton6, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 30, 60, 30));
 
-        btnSave.setBackground(new java.awt.Color(165, 117, 68));
-        btnSave.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
-        btnSave.setText("ADD");
-        btnSave.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
-        btnSave.addActionListener(new java.awt.event.ActionListener() {
+        btnAdd.setBackground(new java.awt.Color(165, 117, 68));
+        btnAdd.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
+        btnAdd.setText("ADD");
+        btnAdd.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
+        btnAdd.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                btnSaveActionPerformed(evt);
+                btnAddActionPerformed(evt);
             }
         });
-        jPanel1.add(btnSave, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 660, 160, 40));
+        jPanel1.add(btnAdd, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 660, 160, 40));
 
         btnUpdate.setBackground(new java.awt.Color(165, 117, 68));
         btnUpdate.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
@@ -454,7 +454,7 @@ int index = tbl_users.getSelectedRow();
         loadUserHistory(selectedUserId);        
     }//GEN-LAST:event_tbl_usersMouseClicked
 
-    private void btnSaveActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSaveActionPerformed
+    private void btnAddActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnAddActionPerformed
         // TODO add your handling code here:
         
 JTextField nameField = new JTextField();
@@ -481,7 +481,7 @@ JTextField nameField = new JTextField();
                 JOptionPane.showMessageDialog(this, "Error: " + e.getMessage());
             }
         }
-    }//GEN-LAST:event_btnSaveActionPerformed
+    }//GEN-LAST:event_btnAddActionPerformed
 
     private void btnUpdateActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnUpdateActionPerformed
         // TODO add your handling code here:
@@ -591,8 +591,8 @@ if (selectedUserId == 0) {
     }
     
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private javax.swing.JButton btnAdd;
     private javax.swing.JButton btnDelete;
-    private javax.swing.JButton btnSave;
     private javax.swing.JButton btnUpdate;
     private javax.swing.JButton jButton5;
     private javax.swing.JButton jButton6;
