@@ -46,25 +46,38 @@
 ---
 
 ## 📸 Application Tour
-The application follows a structured user flow (A to E) for intuitive navigation.
 
-### 1. Onboarding & Authentication
-| Welcome Screen | Login | Signup |
-|:---:|:---:|:---:|
-| ![Welcome](screenshots/welcome.png) | ![Login](screenshots/login.png) | ![Signup](screenshots/signup.png) |
-| *Entry Point (A)* | *Secure Access (B)* | *New User Registration (B)* |
+The application follows a structured user flow with **alphabetical prefixes (A → E)** for intuitive navigation.
 
-### 2. Core Modules
-| Order System (User) | Profile & Wallet | Admin Dashboard |
-|:---:|:---:|:---:|
-| ![Order](screenshots/order.png) | ![Profile](screenshots/profile.png) | ![Admin](screenshots/admin.png) |
-| *Main POS Interface (D)* | *User Profile & History* | *Sales & Management (E)* |
+### 🅰️ Entry Point
+| Welcome Screen |
+|:---:|
+| ![Welcome](screenshots/welcome.png) |
+| `A__Welcome.java` - Application launcher |
 
-### 3. Support & Info
+### 🅱️ Authentication Module
+| Login | Signup |
+|:---:|:---:|
+| ![Login](screenshots/login.png) | ![Signup](screenshots/signup.png) |
+| `B__Login.java` - Secure access | `B__Signup.java` - New registration |
+
+### 🅲 Information Center
 | About Us | Contact Us |
 |:---:|:---:|
 | ![About](screenshots/about.png) | ![Contact](screenshots/contact.png) |
-| *Team Info (C)* | *Support Channels (C)* |
+| `C__About_us.java` | `C__contact_us.java` |
+
+### 🅳 User Module
+| Order System | Profile & Wallet |
+|:---:|:---:|
+| ![Order](screenshots/order.png) | ![Profile](screenshots/profile.png) |
+| `D__User_ORDERS.java` - POS Interface | `D__Order_PROFILE.java` - User Dashboard |
+
+### 🅴 Admin Module
+| Dashboard | Menu Management | Sales Reports | User Management |
+|:---:|:---:|:---:|:---:|
+| ![Admin](screenshots/admin.png) | ![Menu](screenshots/menu.png) | ![Sales](screenshots/sales.png) | ![Users](screenshots/users.png) |
+| `E__Admin_1.java` | `E__Admin_MENU.java` | `E__Admin_SALES.java` | `E__Admin_USERS.java` |
 
 ---
 
@@ -175,17 +188,55 @@ Right-click the project and select **Run**.
 
 ## 📂 Project Structure
 ```
-ZarCafe/
+ZarCafe_System/
 ├── 📁 src/
-│   ├── 📁 ui/           # Java Swing GUI classes
-│   ├── 📁 db/           # Database connection & queries
-│   └── 📁 images/       # Icons and assets
+│   ├── 📁 ui/
+│   │   ├── 📄 A__Welcome.java          # Entry point - Welcome screen
+│   │   ├── 📄 B__Login.java            # User authentication
+│   │   ├── 📄 B__Signup.java           # New user registration
+│   │   ├── 📄 C__About_us.java         # Team information
+│   │   ├── 📄 C__contact_us.java       # Contact details
+│   │   ├── 📄 D__Order_PROFILE.java    # User profile & wallet
+│   │   ├── 📄 D__User_ORDERS.java      # Order menu & cart
+│   │   ├── 📄 E__Admin_1.java          # Admin main dashboard
+│   │   ├── 📄 E__Admin_MENU.java       # Menu management
+│   │   ├── 📄 E__Admin_SALES.java      # Sales reports
+│   │   └── 📄 E__Admin_USERS.java      # User management (CRUD)
+│   ├── 📁 db/
+│   │   └── 📄 DBConnection.java        # Database connection handler
+│   └── 📁 images/                      # Icons and assets
 ├── 📁 database/
-│   └── 📄 database_setup.sql
+│   └── 📄 database_setup.sql           # SQL schema & sample data
 ├── 📁 lib/
-│   └── 📄 mysql-connector-java-x.x.x.jar
-├── 📁 screenshots/
+│   └── 📄 mysql-connector-j-x.x.x.jar  # JDBC Driver
+├── 📁 screenshots/                     # UI screenshots
 └── 📄 README.md
+```
+
+### 🏗️ Architecture Overview
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                        ZAR CAFE SYSTEM                          │
+├─────────────────────────────────────────────────────────────────┤
+│  ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐      │
+│  │    A    │───▶│    B    │───▶│    C    │    │    D    │      │
+│  │ Welcome │    │  Login  │    │  Info   │    │  User   │      │
+│  └─────────┘    │ Signup  │    │ About   │    │ Orders  │      │
+│                 └────┬────┘    │ Contact │    │ Profile │      │
+│                      │         └─────────┘    └────┬────┘      │
+│                      │                             │            │
+│                      ▼                             │            │
+│               ┌─────────────────────────────────┐  │            │
+│               │            E - ADMIN            │◀─┘            │
+│               │  Dashboard │ Menu │ Sales │ Users│              │
+│               └─────────────────────────────────┘              │
+│                              │                                  │
+│                              ▼                                  │
+│                    ┌─────────────────┐                         │
+│                    │  MySQL Database │                         │
+│                    └─────────────────┘                         │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -197,8 +248,8 @@ ZarCafe/
 ```mermaid
 erDiagram
     CUSTOMERS ||--o{ ORDERS : places
-    CUSTOMERS ||--o{ WALLET_TRANSACTIONS : has
     ORDERS ||--|{ ORDER_ITEMS : contains
+    MENU_ITEMS ||--o{ ORDER_ITEMS : includes
     
     CUSTOMERS {
         int CUSTOMER_ID PK
@@ -207,40 +258,28 @@ erDiagram
         varchar PASSWORD
         varchar CUSTOMER_ADDRESS
         varchar ROLE
-        double WALLET_BALANCE
+        varchar GENDER
     }
     
     MENU_ITEMS {
         int ITEM_ID PK
         varchar ITEM_NAME UK
         double PRICE
-        int QUANTITY
-        varchar IMAGE_PATH
     }
     
     ORDERS {
         int ORDER_ID PK
         int CUSTOMER_ID FK
         date ORDER_DATE
-        double SUBTOTAL
-        double DISCOUNT
         double TOTAL_PRICE
     }
     
     ORDER_ITEMS {
         int DETAIL_ID PK
         int ORDER_ID FK
-        varchar ITEM_NAME
+        int ITEM_ID FK
         int QUANTITY
         double PRICE
-    }
-    
-    WALLET_TRANSACTIONS {
-        int TRANSACTION_ID PK
-        int CUSTOMER_ID FK
-        varchar TYPE
-        double AMOUNT
-        datetime TRANSACTION_DATE
     }
 ```
 
@@ -250,19 +289,20 @@ erDiagram
 
 | Table | Description | Key Fields |
 |:-----:|-------------|------------|
-| `customers` | User accounts with wallet | `PHONE_NUMBER` (unique), `WALLET_BALANCE` |
-| `menu_items` | Products with inventory | `ITEM_NAME`, `PRICE`, `QUANTITY` |
-| `orders` | Transactions with discounts | `SUBTOTAL`, `DISCOUNT`, `TOTAL_PRICE` |
-| `order_items` | Items per order | `QUANTITY`, links to `orders` |
-| `wallet_transactions` | 🆕 Wallet activity log | `TYPE` (Deposit/Withdraw), `AMOUNT` |
+| `Customers` | User accounts (customers & admins) | `PHONE_NUMBER` (unique), `ROLE` (Admin/User) |
+| `Menu_Items` | Products catalog | `ITEM_NAME` (unique), `PRICE` |
+| `Orders` | Transaction records | `CUSTOMER_ID` (FK), `TOTAL_PRICE` |
+| `Order_Items` | Items per order (junction table) | `ORDER_ID` (FK), `ITEM_ID` (FK), `QUANTITY` |
 
 ### 🔗 Database Relationships
 
 | Relationship | Type | Cascade |
 |:------------:|:----:|:-------:|
 | Customers → Orders | One-to-Many | ✅ ON DELETE CASCADE |
-| Customers → Wallet_Transactions | One-to-Many | ✅ ON DELETE CASCADE |
-| Orders → Order_Items | One-to-Many | ✅ ON DELETE CASCADE |
+| Orders → Order_Items | One-to-Many | ✅ Linked via FK |
+| Menu_Items → Order_Items | One-to-Many | ✅ Linked via FK |
+
+> 💡 **Note:** `ON DELETE CASCADE` ensures that when a customer is deleted, all their orders are automatically removed.
 
 ### 🍽️ Sample Menu Items
 
@@ -285,6 +325,33 @@ erDiagram
 | `Access denied for user 'root'` | Verify credentials in `DBConnection.java` |
 | Database connection failed | Check if MySQL service is running |
 | Tables not found | Re-import `database_setup.sql` |
+
+---
+
+## 🔐 Technical Highlights
+
+### Code Quality
+| Feature | Implementation |
+|---------|---------------|
+| **Data Passing** | Parameterized constructors between frames |
+| **SQL Security** | Prepared statements to prevent injection |
+| **Error Handling** | Try-catch blocks with user-friendly messages |
+| **Code Organization** | Alphabetical prefix naming (A→E) for navigation flow |
+
+### Database Integrity
+```sql
+-- Cascade Delete Example
+ALTER TABLE orders 
+ADD CONSTRAINT fk_customer 
+FOREIGN KEY (CUSTOMER_ID) REFERENCES customers(CUSTOMER_ID) 
+ON DELETE CASCADE;
+```
+
+### UI/UX Enhancements
+- 🎨 Transparent text fields with rounded corners
+- 👁️ Password visibility toggle (Show/Hide)
+- 🖱️ Double-click event for order details popup
+- 📱 Consistent design language across all frames
 
 ---
 
@@ -336,7 +403,7 @@ This project was proudly developed by:
 
 ---
 
-## � Changelog
+## 📝 Changelog
 
 ### 🚀 Version 2.0.0 (December 2025)
 
@@ -370,7 +437,7 @@ This project was proudly developed by:
 
 ---
 
-## �🙏 Acknowledgments
+## 🙏 Acknowledgments
 
 - 🎓 Our professors and mentors for guidance
 - ☕ Coffee for keeping us awake during development
