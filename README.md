@@ -9,7 +9,8 @@
 ![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 ![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-2.0.0-blue?style=for-the-badge)
+![Updated](https://img.shields.io/badge/Updated-December%202025-orange?style=for-the-badge)
 
 <p align="center">
   <strong>A college-level Point of Sale (POS) desktop application developed as a software engineering project.</strong><br>
@@ -37,6 +38,7 @@
 - [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
 - [Team Members](#-team-members)
+- [Changelog](#-changelog)
 - [Acknowledgments](#-acknowledgments)
 
 </details>
@@ -53,10 +55,10 @@ The application follows a structured user flow (A to E) for intuitive navigation
 | *Entry Point (A)* | *Secure Access (B)* | *New User Registration (B)* |
 
 ### 2. Core Modules
-| Order System (User) | Admin Dashboard |
-|:---:|:---:|
-| ![Order](screenshots/order.png) | ![Admin](screenshots/admin.png) |
-| *Main POS Interface (D)* | *Sales & Management (E)* |
+| Order System (User) | Profile & Wallet | Admin Dashboard |
+|:---:|:---:|:---:|
+| ![Order](screenshots/order.png) | ![Profile](screenshots/profile.png) | ![Admin](screenshots/admin.png) |
+| *Main POS Interface (D)* | *User Profile & History* | *Sales & Management (E)* |
 
 ### 3. Support & Info
 | About Us | Contact Us |
@@ -71,16 +73,31 @@ The application follows a structured user flow (A to E) for intuitive navigation
 ### 👤 A. & B. User Access Control
 * **Welcome Hub:** centralized entry point guiding users to login or register.
 * **Role-Based Login:** secure authentication separating 'Admin' access from standard 'User' access.
-* **Smart Signup:** streamlined registration form with validation.
+* **Smart Signup:** streamlined registration form with duplicate phone validation.
+* **🆕 Show/Hide Password:** toggle checkbox for password visibility in both fields.
+* **🆕 Modern UI:** transparent text fields with rounded borders for a sleek look.
+
+### 💰 Wallet System (NEW!)
+* **Electronic Wallet:** each customer has a wallet balance for cashless transactions.
+* **Transaction History:** complete log of deposits and withdrawals with timestamps.
+* **Secure Payments:** deduct from wallet balance during checkout.
 
 ### 🛒 D. Order Processing (The Core)
 * **Visual Menu:** categorized selection for Coffee, Bakery, and Desserts.
 * **Dynamic Cart:** real-time bill calculation and item management.
+* **🆕 Discount Support:** orders now support subtotal, discount, and final total.
 * **Receipt Generation:** automated generation of order summaries.
+
+### 👤 Profile & Order History (NEW!)
+* **Profile Dashboard:** view wallet balance and personal info.
+* **Order History Table:** browse all past orders in a clean table.
+* **🆕 Quick Details (Double-Click):** double-click any order to see full item breakdown in a popup.
 
 ### 📊 E. Admin Administration
 * **Sales Overview:** view daily earnings and transaction logs.
-* **Database Control:** ability to manage records and view detailed order histories.
+* **🆕 Full CRUD Control:** add, edit, and delete users with cascade deletion.
+* **🆕 Safe Delete:** delete any user along with all their orders automatically.
+* **Menu Management:** add new products, update prices, and manage inventory.
 
 ### ℹ️ C. Information Center
 * **About & Contact:** dedicated interfaces providing project information and developer contact details.
@@ -180,6 +197,7 @@ ZarCafe/
 ```mermaid
 erDiagram
     CUSTOMERS ||--o{ ORDERS : places
+    CUSTOMERS ||--o{ WALLET_TRANSACTIONS : has
     ORDERS ||--|{ ORDER_ITEMS : contains
     
     CUSTOMERS {
@@ -189,20 +207,23 @@ erDiagram
         varchar PASSWORD
         varchar CUSTOMER_ADDRESS
         varchar ROLE
-        varchar GENDER
+        double WALLET_BALANCE
     }
     
     MENU_ITEMS {
         int ITEM_ID PK
         varchar ITEM_NAME UK
         double PRICE
+        int QUANTITY
+        varchar IMAGE_PATH
     }
     
     ORDERS {
         int ORDER_ID PK
-        varchar CUSTOMER_NAME
-        varchar PHONE_NUMBER
+        int CUSTOMER_ID FK
         date ORDER_DATE
+        double SUBTOTAL
+        double DISCOUNT
         double TOTAL_PRICE
     }
     
@@ -213,6 +234,14 @@ erDiagram
         int QUANTITY
         double PRICE
     }
+    
+    WALLET_TRANSACTIONS {
+        int TRANSACTION_ID PK
+        int CUSTOMER_ID FK
+        varchar TYPE
+        double AMOUNT
+        datetime TRANSACTION_DATE
+    }
 ```
 
 </div>
@@ -221,10 +250,19 @@ erDiagram
 
 | Table | Description | Key Fields |
 |:-----:|-------------|------------|
-| `customers` | User accounts (customers & admins) | `PHONE_NUMBER` (unique), `ROLE` (Admin/User) |
-| `menu_items` | Coffee, Bakery, Dessert products | `ITEM_NAME` (unique), `PRICE` |
-| `orders` | Transaction records | `ORDER_DATE`, `TOTAL_PRICE` |
-| `order_items` | Individual items per order | `QUANTITY`, links to `orders` |
+| `customers` | User accounts with wallet | `PHONE_NUMBER` (unique), `WALLET_BALANCE` |
+| `menu_items` | Products with inventory | `ITEM_NAME`, `PRICE`, `QUANTITY` |
+| `orders` | Transactions with discounts | `SUBTOTAL`, `DISCOUNT`, `TOTAL_PRICE` |
+| `order_items` | Items per order | `QUANTITY`, links to `orders` |
+| `wallet_transactions` | 🆕 Wallet activity log | `TYPE` (Deposit/Withdraw), `AMOUNT` |
+
+### 🔗 Database Relationships
+
+| Relationship | Type | Cascade |
+|:------------:|:----:|:-------:|
+| Customers → Orders | One-to-Many | ✅ ON DELETE CASCADE |
+| Customers → Wallet_Transactions | One-to-Many | ✅ ON DELETE CASCADE |
+| Orders → Order_Items | One-to-Many | ✅ ON DELETE CASCADE |
 
 ### 🍽️ Sample Menu Items
 
@@ -254,7 +292,9 @@ erDiagram
 
 | Priority | Feature | Status |
 |:--------:|---------|:------:|
-| 🔴 High | Inventory management system | 📋 Planned |
+| ✅ Done | Wallet system with transactions | ✅ Completed v2.0 |
+| ✅ Done | Order history with details popup | ✅ Completed v2.0 |
+| ✅ Done | User profile dashboard | ✅ Completed v2.0 |
 | 🔴 High | Export sales reports to PDF/Excel | 📋 Planned |
 | 🟡 Medium | Customer loyalty program | 💭 Idea |
 | 🟡 Medium | Multi-language support | 💭 Idea |
@@ -296,7 +336,41 @@ This project was proudly developed by:
 
 ---
 
-## 🙏 Acknowledgments
+## � Changelog
+
+### 🚀 Version 2.0.0 (December 2025)
+
+#### 💰 New Features
+- **Wallet System:** Electronic wallet for cashless payments
+- **Transaction History:** Complete log of all wallet activities
+- **Profile Dashboard:** View balance and personal information
+- **Order History:** Browse past orders in a table format
+- **Quick Details Popup:** Double-click orders to see item breakdown
+
+#### 🛠️ Improvements
+- **Show/Hide Password:** Toggle visibility in login & signup forms
+- **Modern UI:** Transparent fields with rounded borders
+- **Discount Support:** Orders now track subtotal, discount, and total
+- **Cascade Delete:** Safe user deletion with automatic cleanup
+- **Menu Inventory:** Track product quantities and images
+
+#### 🔧 Technical Updates
+- Removed unused `GENDER` column from database
+- Added `WALLET_BALANCE` to customers table
+- New `wallet_transactions` table for financial tracking
+- Implemented `ON DELETE CASCADE` for data integrity
+- Parameterized constructors for secure data passing
+
+### 📦 Version 1.0.0 (December 2025)
+- 🎉 Initial release
+- ✅ User authentication (Login/Signup)
+- ✅ Order management system
+- ✅ Admin dashboard
+- ✅ Basic POS functionality
+
+---
+
+## �🙏 Acknowledgments
 
 - 🎓 Our professors and mentors for guidance
 - ☕ Coffee for keeping us awake during development
