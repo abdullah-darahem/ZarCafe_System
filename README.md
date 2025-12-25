@@ -197,7 +197,9 @@ Desktop
 The application follows a structured user flow with **alphabetical prefixes (A → E)** for intuitive navigation.
 
 <details open>
-<summary>🖼️ <b>Screenshot Gallery</b></summary>
+<summary>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=20&duration=3000&pause=1000&color=6F4E37&vCenter=true&width=300&height=30&lines=%F0%9F%96%BC%EF%B8%8F+Screenshot+Gallery;%F0%9F%93%B8+App+Preview;%E2%9C%A8+UI+Showcase" alt="Gallery" />
+</summary>
 <br>
 
 ### 🅰️ Entry Point
