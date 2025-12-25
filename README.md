@@ -422,11 +422,11 @@ The application follows a structured user flow with **alphabetical prefixes (A �
 | Technology | Progress | Level |
 |:----------:|:--------:|:-----:|
 | <img src="https://skillicons.dev/icons?i=java" width="30"/> Java | ![95%](https://img.shields.io/badge/95%25-4A2C2A?style=flat-square&labelColor=6F4E37) █████████░ | 🔥 Expert |
-| <img src="https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white" height="20"/> Swing UI | ![88%](https://img.shields.io/badge/88%25-4A2C2A?style=flat-square&labelColor=6F4E37) ████████░░ | 💪 Advanced |
-| <img src="https://skillicons.dev/icons?i=mysql" width="30"/> MySQL | ![80%](https://img.shields.io/badge/80%25-4A2C2A?style=flat-square&labelColor=6F4E37) ████████░░ | 💪 Advanced |
-| <img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=java&logoColor=white" height="20"/> JDBC | ![75%](https://img.shields.io/badge/75%25-4A2C2A?style=flat-square&labelColor=6F4E37) ███████░░░ | 📚 Proficient |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="25"/> UI/UX | ![68%](https://img.shields.io/badge/68%25-4A2C2A?style=flat-square&labelColor=6F4E37) ██████░░░░ | 📚 Proficient |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25"/> Docs | ![100%](https://img.shields.io/badge/100%25-4A2C2A?style=flat-square&labelColor=6F4E37) ██████████ | 🏆 Master |
+| <img src="https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white" height="20"/> Swing UI | ![92%](https://img.shields.io/badge/92%25-4A2C2A?style=flat-square&labelColor=6F4E37) █████████░ | 🔥 Expert |
+| <img src="https://skillicons.dev/icons?i=mysql" width="30"/> MySQL | ![90%](https://img.shields.io/badge/90%25-4A2C2A?style=flat-square&labelColor=6F4E37) █████████░ | 🔥 Expert |
+| <img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=java&logoColor=white" height="20"/> JDBC | ![88%](https://img.shields.io/badge/88%25-4A2C2A?style=flat-square&labelColor=6F4E37) ████████░░ | 💪 Advanced |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="25"/> UI/UX | ![85%](https://img.shields.io/badge/85%25-4A2C2A?style=flat-square&labelColor=6F4E37) ████████░░ | 💪 Advanced |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25"/> Docs | ![95%](https://img.shields.io/badge/95%25-4A2C2A?style=flat-square&labelColor=6F4E37) █████████░ | 🔥 Expert |
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> **Always learning, always growing!**
 
