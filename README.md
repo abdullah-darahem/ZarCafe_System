@@ -9,6 +9,14 @@
 <!-- Animated Coffee -->
 <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="80" alt="coffee"/>
 
+<!-- ✨ Animated Tech Icons ✨ -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70">
+</p>
+
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=abdullah-darahem-zarcafe&label=Visitors&color=6F4E37&style=for-the-badge" alt="visitors"/>
 
@@ -40,6 +48,8 @@
 
 ### 🎬 Watch Full Demo
 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+
 [![Watch Demo](https://img.shields.io/badge/▶_Watch_Full_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/12ca1i_MeDqMy2uFxcE-72gWRjlKziEVQ/view)
 
 *Click the button above to watch the complete 5-minute walkthrough*
@@ -54,7 +64,8 @@
 
 </div>
 
----
+<!-- ✨ ANIMATED RAINBOW DIVIDER ✨ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📑 Table of Contents
 
@@ -77,7 +88,8 @@
 
 </details>
 
----
+<!-- ✨ ANIMATED WAVE DIVIDER ✨ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📸 Application Tour
 
@@ -125,7 +137,8 @@ The application follows a structured user flow with **alphabetical prefixes (A �
 
 </details>
 
----
+<!-- ✨ ANIMATED GRADIENT LINE ✨ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 Key Features
 
@@ -161,7 +174,8 @@ The application follows a structured user flow with **alphabetical prefixes (A �
 ### ℹ️ C. Information Center
 * **About & Contact:** dedicated interfaces providing project information and developer contact details.
 
----
+<!-- ✨ ANIMATED GRADIENT LINE ✨ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -430,11 +444,15 @@ Contributions are welcome! Here's how you can help:
 
 > Please read our contribution guidelines before submitting a PR.
 
----
+<!-- ✨ ANIMATED GRADIENT LINE ✨ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 👨‍💻 Team Members
 
 <div align="center">
+
+<!-- Animated Handshake -->
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468f5596.gif" width="60">
 
 ### ✨ Meet the Amazing Team Behind Zar Cafe ✨
 
@@ -477,7 +495,8 @@ Contributions are welcome! Here's how you can help:
 
 </div>
 
----
+<!-- ✨ ANIMATED GRADIENT LINE ✨ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📝 Changelog
 
@@ -511,7 +530,8 @@ Contributions are welcome! Here's how you can help:
 - ✅ Admin dashboard
 - ✅ Basic POS functionality
 
----
+<!-- ✨ ANIMATED GRADIENT LINE ✨ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🙏 Acknowledgments
 
@@ -528,7 +548,8 @@ Contributions are welcome! Here's how you can help:
 - 💡 Open source community for inspiration
 - 🌟 Everyone who stars and supports this project
 
----
+<!-- ✨ ANIMATED GRADIENT LINE ✨ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📄 License
 
@@ -538,7 +559,8 @@ This project is developed for **educational purposes** as part of a Software Eng
 MIT License - Feel free to use this project for learning purposes.
 ```
 
----
+<!-- ✨ ANIMATED GRADIENT LINE ✨ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
@@ -548,13 +570,15 @@ MIT License - Feel free to use this project for learning purposes.
 
 </div>
 
----
+<!-- ✨ ANIMATED GRADIENT LINE ✨ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
 ### 💖 Support the Project
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="50" />
+<!-- Animated Star -->
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80" />
 
 **If you found this project helpful, please give it a star!**
 
