@@ -9,13 +9,8 @@
 <!-- Animated Coffee -->
 <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="80" alt="coffee"/>
 
-<!-- ✨ Animated Tech Icons ✨ -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="70">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70">
-</p>
+<!-- ✨ Animated Coding GIF ✨ -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=abdullah-darahem-zarcafe&label=Visitors&color=6F4E37&style=for-the-badge" alt="visitors"/>
@@ -91,6 +86,10 @@
 <!-- ✨ ANIMATED WAVE DIVIDER ✨ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
+</div>
+
 ## 📸 Application Tour
 
 <div align="center">
@@ -140,6 +139,10 @@ The application follows a structured user flow with **alphabetical prefixes (A �
 <!-- ✨ ANIMATED GRADIENT LINE ✨ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
+</div>
+
 ## 🚀 Key Features
 
 ### 👤 A. & B. User Access Control
@@ -177,6 +180,10 @@ The application follows a structured user flow with **alphabetical prefixes (A �
 <!-- ✨ ANIMATED GRADIENT LINE ✨ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -208,6 +215,11 @@ Before you begin, ensure you have the following installed:
 > 💡 **Tip:** You can also use [XAMPP](https://www.apachefriends.org/) which includes MySQL Server.
 
 ---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300">
+</div>
 
 ## ⚙️ Installation & Setup Guide
 
@@ -247,6 +259,10 @@ Right-click the project and select **Run**.
     > **Note:** For security purposes, please change these credentials after the first login or via the database.
 
 ---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
+</div>
 
 ## 📂 Project Structure
 ```
@@ -302,6 +318,10 @@ ZarCafe_System/
 ```
 
 ---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="300">
+</div>
 
 ## 📊 Database Schema
 
@@ -379,6 +399,10 @@ erDiagram
 
 ---
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="100">
+</div>
+
 ## ❓ Troubleshooting
 
 | Issue | Solution |
@@ -389,6 +413,10 @@ erDiagram
 | Tables not found | Re-import `database_setup.sql` |
 
 ---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216654124-763f0bd5-2b5e-4cd8-80c3-352d35667a22.gif" width="120">
+</div>
 
 ## 🔐 Technical Highlights
 
@@ -417,6 +445,10 @@ ON DELETE CASCADE;
 
 ---
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216656956-c5f97119-4a9e-405e-8cf3-fb9a4ed7f5b6.gif" width="150">
+</div>
+
 ## 🔮 Future Enhancements
 
 | Priority | Feature | Status |
@@ -431,6 +463,10 @@ ON DELETE CASCADE;
 | 🟢 Low | Mobile companion app | 💭 Idea |
 
 ---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468f5596.gif" width="80">
+</div>
 
 ## 🤝 Contributing
 
