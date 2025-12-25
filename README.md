@@ -196,7 +196,6 @@ Desktop
 - [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
 - [Team Members](#-team-members)
-- [Changelog](#-changelog)
 - [Acknowledgments](#-acknowledgments)
 
 </details>
@@ -959,49 +958,6 @@ gantt
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4f7f5b5d1e41.gif" width="400">
 </div>
 
-<!-- 📝 ANIMATED CHANGELOG HEADER 📝 -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&section=header&text=📝%20CHANGELOG&fontSize=40&fontColor=6F4E37&animation=fadeIn&desc=Version%20History&descSize=15&descAlignY=75"/>
-</div>
-
-### 🚀 Version 2.0.0 (December 2025)
-
-<!-- 🌟 NEW VERSION ANIMATED BADGE 🌟 -->
-<div align="center">
-<img src="https://img.shields.io/badge/VERSION-2.0.0-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="Version"/>
-<img src="https://img.shields.io/badge/STATUS-STABLE-00FF00?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=black" alt="Stable"/>
-<img src="https://img.shields.io/badge/RELEASE-DEC_2025-FFD700?style=for-the-badge&logo=calendar&logoColor=white&labelColor=black" alt="Release"/>
-</div>
-<br>
-
-#### 💰 New Features
-- **Wallet System:** Electronic wallet for cashless payments
-- **Transaction History:** Complete log of all wallet activities
-- **Profile Dashboard:** View balance and personal information
-- **Order History:** Browse past orders in a table format
-- **Quick Details Popup:** Double-click orders to see item breakdown
-
-#### 🛠️ Improvements
-- **Show/Hide Password:** Toggle visibility in login & signup forms
-- **Modern UI:** Transparent fields with rounded borders
-- **Discount Support:** Orders now track subtotal, discount, and total
-- **Cascade Delete:** Safe user deletion with automatic cleanup
-- **Menu Inventory:** Track product quantities and images
-
-#### 🔧 Technical Updates
-- Removed unused `GENDER` column from database
-- Added `WALLET_BALANCE` to customers table
-- New `wallet_transactions` table for financial tracking
-- Implemented `ON DELETE CASCADE` for data integrity
-- Parameterized constructors for secure data passing
-
-### 📦 Version 1.0.0 (December 2025)
-- 🎉 Initial release
-- ✅ User authentication (Login/Signup)
-- ✅ Order management system
-- ✅ Admin dashboard
-- ✅ Basic POS functionality
-
 <!-- ✨ ANIMATED GRADIENT LINE ✨ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -1017,7 +973,7 @@ gantt
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="30"/>
 
 <!-- 🌊 WAVE THANK YOU 🌊 -->
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=2500&pause=1000&color=6F4E37&center=true&vCenter=true&width=450&height=50&lines=Thank+You+So+Much!+🙏;We+Appreciate+You!+❤️;You're+Amazing!+⭐" alt="Thanks" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=2500&pause=1000&color=6F4E37&center=true&vCenter=true&width=450&height=50&lines=Thank+You+So+Much!+%F0%9F%99%8F;We+Appreciate+You!+%E2%9D%A4%EF%B8%8F;You're+Amazing!+%E2%AD%90" alt="Thanks" />
 
 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="25" />
 > *"Life begins after coffee"* — Every Developer Ever
