@@ -1,31 +1,13 @@
 <div align="center">
 
-<!-- 🚀 COSMIC INTRO ANIMATION -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="80"/>
-
-<!-- Matrix/Code Rain Effect -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f93.gif" width="500">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=☕%20Zar%20Cafe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=✨%20Management%20System%20From%20The%20Future%20✨&descAlignY=55&descSize=16&stroke=00FFFF&strokeWidth=2"/>
-
-<!-- Neon Glow Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<!-- ☕ ELEGANT COFFEE HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A2C2A,50:6F4E37,100:A67B5B&height=200&section=header&text=☕%20Zar%20Cafe&fontSize=55&fontColor=FFF8DC&animation=fadeIn&fontAlignY=35&desc=Management%20System&descAlignY=55&descSize=20&descColor=DEB887"/>
 
 <!-- Animated Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=🌟+WELCOME+TO+THE+FUTURE+OF+COFFEE+MANAGEMENT+🌟;⚡+Powered+by+Java+%7C+MySQL+%7C+Innovation+⚡;🚀+From+Earth+to+Mars...+And+Beyond!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=600&height=60&lines=☕+A+Modern+Point+of+Sale+Solution;🏪+For+Coffee+Shops+%26+Cafes;💼+Built+with+Java+Swing+%26+MySQL)](https://git.io/typing-svg)
 
 <!-- Animated Coffee -->
 <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="80" alt="coffee"/>
-
-<!-- Space Elements -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="40"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="40"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Shooting%20Star.png" width="40"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="40"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="40"/>
 
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=abdullah-darahem-zarcafe&label=Visitors&color=brightgreen&style=for-the-badge" alt="visitors"/>
