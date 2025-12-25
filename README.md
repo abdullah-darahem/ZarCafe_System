@@ -14,8 +14,28 @@
 <!-- Animated Coffee -->
 <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="80" alt="coffee"/>
 
-<!-- ✨ Animated Coding GIF ✨ -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<!-- ☕ CUTE COFFEE MASCOT ☕ -->
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="100"/>
+<br>
+<b>"Café"</b><br>
+<sub>🎀 Our Mascot 🎀</sub>
+</td>
+</tr>
+</table>
+
+<!-- 🏆 ACHIEVEMENT BADGES 🏆 -->
+<h4>🏆 Project Achievements</h4>
+<p>
+<img src="https://img.shields.io/badge/🎉_First_Commit-Unlocked-gold?style=flat-square"/>
+<img src="https://img.shields.io/badge/💻_5000+_Lines-Code_Master-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/🐛_Bug_Squasher-100+_Fixed-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/☕_Coffee_Addict-200+_Cups-brown?style=flat-square"/>
+<img src="https://img.shields.io/badge/🌙_Night_Owl-Midnight_Coder-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎓_Graduated-v2.0_Released-success?style=flat-square"/>
+</p>
 
 <!-- 🏆 PROJECT HIGHLIGHTS 🏆 -->
 <table>
@@ -233,6 +253,22 @@ The application follows a structured user flow with **alphabetical prefixes (A �
 | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) | MySQL 5.7+ | Database Management |
 | ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=java&logoColor=white) | MySQL Connector | Database Connectivity |
 | ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans&logoColor=white) | Apache NetBeans | Development IDE |
+
+</div>
+
+### 📊 Our Tech Proficiency
+
+<div align="center">
+
+```
+☕ Java         ████████████████████░░░░░  85%
+🗄️ MySQL        ██████████████████░░░░░░░  75%
+🎨 Swing UI     ████████████████░░░░░░░░░  70%
+🔌 JDBC         █████████████████░░░░░░░░  72%
+📁 NetBeans     ████████████████████████░  95%
+🐛 Debugging    ███████████████████░░░░░░  80%
+☕ Coffee       █████████████████████████  100%
+```
 
 </div>
 
@@ -614,6 +650,51 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
+## 😂 Developer Jokes Corner
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Tears%20of%20Joy.png" width="60"/>
+
+</div>
+
+> ☕ **Why do Java developers wear glasses?**
+> 
+> *Because they can't C#!*
+
+---
+
+> 🐛 **A SQL query walks into a bar, walks up to two tables and asks...**
+> 
+> *"Can I join you?"*
+
+---
+
+> 💻 **Why did the developer quit his job?**
+> 
+> *Because he didn't get arrays!* (a raise)
+
+---
+
+> ☕ **How do you comfort a JavaScript bug?**
+> 
+> *You console it!* 
+> *(But we use Java, so we System.out.println() it 😄)*
+
+---
+
+> 🔌 **Why do programmers prefer dark mode?**
+> 
+> *Because light attracts bugs!* 🐛
+
+<div align="center">
+
+*— The jokes that got us through debugging sessions —*
+
+</div>
+
+---
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4f7f5b5d1e41.gif" width="400">
 </div>
@@ -687,6 +768,67 @@ MIT License - Feel free to use this project for learning purposes.
 ## 🌟 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=abdullah-darahem/ZarCafe_System&type=Date)](https://star-history.com/#abdullah-darahem/ZarCafe_System&Date)
+
+</div>
+
+<!-- ✨ ANIMATED GRADIENT LINE ✨ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## ⚡ Quick Stats
+
+<div align="center">
+
+<!-- Animated Stats Cards -->
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Inbox%20Tray.png" width="50"/><br>
+<h3>15+</h3>
+<sub>Java Files</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="50"/><br>
+<h3>5000+</h3>
+<sub>Lines of Code</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="50"/><br>
+<h3>200+</h3>
+<sub>Coffees Consumed</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="50"/><br>
+<h3>6</h3>
+<sub>Amazing Devs</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Lady%20Beetle.png" width="50"/><br>
+<h3>100+</h3>
+<sub>Bugs Fixed</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="50"/><br>
+<h3>v2.0</h3>
+<sub>Current Version</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="50"/><br>
+<h3>Dec</h3>
+<sub>Release Month</sub>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="50"/><br>
+<h3>∞</h3>
+<sub>Passion</sub>
+</td>
+</tr>
+</table>
+
+<!-- Fun Animated Counter -->
+<br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=500&color=6F4E37&center=true&vCenter=true&width=500&height=40&lines=☕+Making+the+world+caffeinated...;💻+One+line+of+code+at+a+time...;🎉+Thanks+for+visiting!" alt="Typing SVG" />
 
 </div>
 
