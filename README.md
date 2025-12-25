@@ -691,24 +691,6 @@ gantt
 
   ☕ COFFEE TIME ☕
 ```
-
-</div>
-
-| 🎯 Did You Know? |
-|-----------------|
-| ☕ The team consumed enough coffee to fill a small swimming pool |
-| 🌙 Most commits were made between midnight and 3 AM |
-| 🐛 The first bug took 4 hours to fix - it was a missing semicolon |
-| 🎨 The UI was redesigned 5 times before we got it right |
-| 💡 The name "Zar" comes from team brainstorming session |
-| 🎵 Lo-fi hip hop was our coding soundtrack |
-| 🍕 We ordered pizza 7 times during development |
-| 💬 Over 500 WhatsApp messages were exchanged |
-| 📝 The README is longer than some of our Java files |
-| 🎮 We took game breaks to stay productive |
-| 😱 We almost lost the project to a git merge conflict |
-| 🎉 We celebrated every successful feature with emojis |
-
 ---
 
 <!-- 🏅 ACHIEVEMENT BADGES 🏅 -->
@@ -748,12 +730,12 @@ gantt
 
 | Color | Hex | Preview | Usage |
 |:-----:|:---:|:-------:|:------|
-| ☕ Dark Espresso | `#4A2C2A` | ![#4A2C2A](https://via.placeholder.com/50x30/4A2C2A/4A2C2A?text=+) | Headers, Buttons |
-| 🤎 Coffee Brown | `#6F4E37` | ![#6F4E37](https://via.placeholder.com/50x30/6F4E37/6F4E37?text=+) | Primary Color |
-| 🍂 Caramel | `#A67B5B` | ![#A67B5B](https://via.placeholder.com/50x30/A67B5B/A67B5B?text=+) | Accents |
-| 🥛 Cream | `#FFF8DC` | ![#FFF8DC](https://via.placeholder.com/50x30/FFF8DC/FFF8DC?text=+) | Text, Backgrounds |
-| 🍞 Wheat | `#DEB887` | ![#DEB887](https://via.placeholder.com/50x30/DEB887/DEB887?text=+) | Secondary Text |
-| 🥐 Warm Beige | `#F5DEB3` | ![#F5DEB3](https://via.placeholder.com/50x30/F5DEB3/F5DEB3?text=+) | Hover States |
+| ☕ Dark Espresso | `#4A2C2A` | ![](https://img.shields.io/badge/-%20-4A2C2A?style=for-the-badge) | Headers, Buttons |
+| 🤎 Coffee Brown | `#6F4E37` | ![](https://img.shields.io/badge/-%20-6F4E37?style=for-the-badge) | Primary Color |
+| 🍂 Caramel | `#A67B5B` | ![](https://img.shields.io/badge/-%20-A67B5B?style=for-the-badge) | Accents |
+| 🥛 Cream | `#FFF8DC` | ![](https://img.shields.io/badge/-%20-FFF8DC?style=for-the-badge) | Text, Backgrounds |
+| 🍞 Wheat | `#DEB887` | ![](https://img.shields.io/badge/-%20-DEB887?style=for-the-badge) | Secondary Text |
+| 🥐 Warm Beige | `#F5DEB3` | ![](https://img.shields.io/badge/-%20-F5DEB3?style=for-the-badge) | Hover States |
 
 </div>
 
