@@ -142,40 +142,6 @@ Desktop
 <!-- ✨ ANIMATED RAINBOW DIVIDER ✨ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 Why This is THE BEST Repository
-
-<div align="center">
-
-<!-- 🌟 ANIMATED EXCELLENCE BADGES 🌟 -->
-<table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="50"/><br>
-<b>Premium</b><br>
-<sub>Quality Code</sub>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="50"/><br>
-<b>Lightning</b><br>
-<sub>Fast & Efficient</sub>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20on%20Fire.png" width="50"/><br>
-<b>Passionate</b><br>
-<sub>Built with Love</sub>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="50"/><br>
-<b>Well</b><br>
-<sub>Documented</sub>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Artist%20Palette.png" width="50"/><br>
-<b>Beautiful</b><br>
-<sub>UI/UX Design</sub>
-</td>
-</tr>
-</table>
 
 <!-- 🎯 ANIMATED FEATURES SHOWCASE 🎯 -->
 <br>
