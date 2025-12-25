@@ -563,29 +563,29 @@ Contributions are welcome! Here's how you can help:
 <table>
   <tr>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-fe86b733a3e7.gif" width="80"/><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="80"/><br>
       <b>Abdullah Darahem</b><br>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-fe86b733a3e7.gif" width="80"/><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="80"/><br>
       <b>Zeyad Salim</b><br>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b22b7a6f5f.gif" width="80"/><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20with%20Headscarf.png" width="80"/><br>
       <b>Rana Ehgannam</b><br>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b22b7a6f5f.gif" width="80"/><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20with%20Headscarf.png" width="80"/><br>
       <b>Rewan Reda</b><br>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b22b7a6f5f.gif" width="80"/><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20with%20Headscarf.png" width="80"/><br>
       <b>Rawaa Elsayed</b><br>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b22b7a6f5f.gif" width="80"/><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20with%20Headscarf.png" width="80"/><br>
       <b>Rawan Osama</b><br>
     </td>
   </tr>
