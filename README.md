@@ -691,6 +691,18 @@ gantt
 
   ☕ COFFEE TIME ☕
 ```
+
+</div>
+
+| 🎯 Did You Know? |
+|-----------------|
+| ☕ The team consumed enough coffee to fill a small swimming pool |
+| 🌙 Most commits were made between midnight and 3 AM |
+| 🐛 The first bug took 4 hours to fix - it was a missing semicolon |
+| 🎨 The UI was redesigned 5 times before we got it right |
+| 💡 The name "Zar" comes from team brainstorming session |
+| 🎵 Lo-fi hip hop was our coding soundtrack |
+
 ---
 
 <!-- 🏅 ACHIEVEMENT BADGES 🏅 -->
