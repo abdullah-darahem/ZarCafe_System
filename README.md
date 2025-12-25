@@ -94,6 +94,16 @@ Desktop
 [![GitHub forks](https://img.shields.io/github/forks/abdullah-darahem/ZarCafe_System?style=social)](https://github.com/abdullah-darahem/ZarCafe_System/network/members)
 [![GitHub watchers](https://img.shields.io/github/watchers/abdullah-darahem/ZarCafe_System?style=social)](https://github.com/abdullah-darahem/ZarCafe_System/watchers)
 
+<!-- 📊 GITHUB STATS CARDS 📊 -->
+<br>
+
+| 📈 Repository Stats | 🔥 Activity |
+|:-------------------:|:-----------:|
+| ![GitHub repo size](https://img.shields.io/github/repo-size/abdullah-darahem/ZarCafe_System?style=for-the-badge&color=6F4E37) | ![GitHub last commit](https://img.shields.io/github/last-commit/abdullah-darahem/ZarCafe_System?style=for-the-badge&color=A67B5B) |
+| ![GitHub language count](https://img.shields.io/github/languages/count/abdullah-darahem/ZarCafe_System?style=for-the-badge&color=4A2C2A) | ![GitHub top language](https://img.shields.io/github/languages/top/abdullah-darahem/ZarCafe_System?style=for-the-badge&color=6F4E37) |
+
+<br>
+
 <p align="center">
   <strong>A college-level Point of Sale (POS) desktop application developed as a software engineering project.</strong><br>
   This system streamlines coffee shop operations using a structured <b>Java Swing</b> interface and <b>MySQL</b> database.
@@ -110,6 +120,22 @@ Desktop
 [![Watch Demo](https://img.shields.io/badge/▶_Watch_Full_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/12ca1i_MeDqMy2uFxcE-72gWRjlKziEVQ/view)
 
 *Click the button above to watch the complete 5-minute walkthrough*
+
+<!-- ☕ ANIMATED COFFEE FACTS CAROUSEL ☕ -->
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="40"/>
+
+[![Coffee Fact](https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=22&duration=4000&pause=2000&color=6F4E37&center=true&vCenter=true&width=600&height=50&lines=%E2%98%95+Coffee+is+the+2nd+most+traded+commodity+worldwide!;%E2%98%95+Finland+drinks+the+most+coffee+per+capita!;%E2%98%95+The+word+%22coffee%22+comes+from+Arabic+%22qahwa%22!;%E2%98%95+Espresso+means+%22pressed+out%22+in+Italian!;%E2%98%95+A+coffee+tree+takes+5+years+to+mature!)](https://git.io/typing-svg)
+
+<!-- 💬 INSPIRING QUOTE ROTATOR 💬 -->
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="35"/>
+
+[![Quote](https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=5000&pause=3000&color=4A2C2A&center=true&vCenter=true&width=700&height=60&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%93+John+Johnson;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22+%E2%80%93+Cory+House;%22The+best+error+message+is+the+one+that+never+shows+up.%22+%E2%80%93+Thomas+Fuchs;%22Java+is+to+JavaScript+what+car+is+to+carpet.%22+%E2%80%93+Chris+Heilmann;%22Programming+is+the+art+of+telling+a+computer+what+to+do.%22)](https://git.io/typing-svg)
+
+<br>
 
 <!-- 🚀 EPIC ACTION BUTTONS 🚀 -->
 <br>
@@ -267,6 +293,22 @@ The application follows a structured user flow with **alphabetical prefixes (A �
 | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white) | MySQL 5.7+ | Database Management |
 | ![JDBC](https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=java&logoColor=white) | MySQL Connector | Database Connectivity |
 | ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans&logoColor=white) | Apache NetBeans | Development IDE |
+
+<!-- 📊 SKILL PROGRESS BARS 📊 -->
+<br>
+
+### 💪 Technology Proficiency
+
+```
+Java          ████████████████████████░░   95%
+Swing UI      ██████████████████████░░░░   88%
+MySQL         ████████████████████░░░░░░   80%
+JDBC          ███████████████████░░░░░░░   75%
+UI/UX Design  █████████████████░░░░░░░░░   68%
+Documentation ██████████████████████████  100%
+```
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> **Always learning, always growing!**
 
 </div>
 
@@ -571,21 +613,25 @@ Contributions are welcome! Here's how you can help:
       <b>Zeyad Salim</b><br>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="80"/><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20with%20Headscarf.png" width="60"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40"/><br>
       <b>Rana Ehgannam</b><br>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="80"/><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20with%20Headscarf.png" width="60"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40"/><br>
       <b>Rewan Reda</b><br>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="80"/><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20with%20Headscarf.png" width="60"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40"/><br>
       <b>Rawaa Elsayed</b><br>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="80"/><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20with%20Headscarf.png" width="60"/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40"/><br>
       <b>Rawan Osama</b><br>
     </td>
   </tr>
@@ -656,6 +702,83 @@ gantt
 | 🎨 The UI was redesigned 5 times before we got it right |
 | 💡 The name "Zar" comes from team brainstorming session |
 | 🎵 Lo-fi hip hop was our coding soundtrack |
+| 🍕 We ordered pizza 7 times during development |
+| 💬 Over 500 WhatsApp messages were exchanged |
+| 📝 The README is longer than some of our Java files |
+| 🎮 We took game breaks to stay productive |
+| 😱 We almost lost the project to a git merge conflict |
+| 🎉 We celebrated every successful feature with emojis |
+
+---
+
+<!-- 🏅 ACHIEVEMENT BADGES 🏅 -->
+<div align="center">
+
+## 🏅 Achievement Unlocked!
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" width="50"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="50"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="60"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="50"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" width="50"/>
+
+| 🎖️ Achievement | 📋 Description | ✅ Status |
+|:-------------:|:--------------|:--------:|
+| 🚀 **First Commit** | Made the initial commit | ![Done](https://img.shields.io/badge/UNLOCKED-success?style=flat-square) |
+| ☕ **Coffee Addict** | Consumed 100+ cups of coffee | ![Done](https://img.shields.io/badge/UNLOCKED-success?style=flat-square) |
+| 🐛 **Bug Slayer** | Fixed 50+ bugs | ![Done](https://img.shields.io/badge/UNLOCKED-success?style=flat-square) |
+| 🌙 **Night Owl** | Coded past midnight 10+ times | ![Done](https://img.shields.io/badge/UNLOCKED-success?style=flat-square) |
+| 📚 **Documentation Hero** | Wrote 800+ lines of README | ![Done](https://img.shields.io/badge/UNLOCKED-success?style=flat-square) |
+| 💻 **Code Warrior** | Wrote 5000+ lines of code | ![Done](https://img.shields.io/badge/UNLOCKED-success?style=flat-square) |
+| 🎨 **UI Perfectionist** | Redesigned UI 5 times | ![Done](https://img.shields.io/badge/UNLOCKED-success?style=flat-square) |
+| 🤝 **Team Player** | 6 members worked in harmony | ![Done](https://img.shields.io/badge/UNLOCKED-success?style=flat-square) |
+| ⭐ **Rising Star** | Got first GitHub star | ![Pending](https://img.shields.io/badge/WAITING_FOR_YOU-yellow?style=flat-square) |
+| 🌟 **Superstar** | Reached 100 stars | ![Locked](https://img.shields.io/badge/LOCKED-gray?style=flat-square) |
+
+</div>
+
+---
+
+<!-- 🎨 COLOR PALETTE SHOWCASE 🎨 -->
+<div align="center">
+
+## 🎨 App Color Palette
+
+*The beautiful coffee-inspired colors of Zar Cafe*
+
+| Color | Hex | Preview | Usage |
+|:-----:|:---:|:-------:|:------|
+| ☕ Dark Espresso | `#4A2C2A` | ![#4A2C2A](https://via.placeholder.com/50x30/4A2C2A/4A2C2A?text=+) | Headers, Buttons |
+| 🤎 Coffee Brown | `#6F4E37` | ![#6F4E37](https://via.placeholder.com/50x30/6F4E37/6F4E37?text=+) | Primary Color |
+| 🍂 Caramel | `#A67B5B` | ![#A67B5B](https://via.placeholder.com/50x30/A67B5B/A67B5B?text=+) | Accents |
+| 🥛 Cream | `#FFF8DC` | ![#FFF8DC](https://via.placeholder.com/50x30/FFF8DC/FFF8DC?text=+) | Text, Backgrounds |
+| 🍞 Wheat | `#DEB887` | ![#DEB887](https://via.placeholder.com/50x30/DEB887/DEB887?text=+) | Secondary Text |
+| 🥐 Warm Beige | `#F5DEB3` | ![#F5DEB3](https://via.placeholder.com/50x30/F5DEB3/F5DEB3?text=+) | Hover States |
+
+</div>
+
+---
+
+<!-- ⌨️ KEYBOARD SHORTCUTS ⌨️ -->
+<div align="center">
+
+## ⌨️ Keyboard Shortcuts
+
+*Speed up your workflow with these handy shortcuts*
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" width="60"/>
+
+| Shortcut | Action | Module |
+|:--------:|:------:|:------:|
+| <kbd>Enter</kbd> | Submit Form | Login/Signup |
+| <kbd>Esc</kbd> | Close Dialog | All |
+| <kbd>Double-Click</kbd> | View Order Details | User Profile |
+| <kbd>Tab</kbd> | Navigate Fields | All Forms |
+| <kbd>F5</kbd> | Refresh Data | Admin Panel |
+| <kbd>Ctrl</kbd>+<kbd>S</kbd> | Save Changes | Menu Editor |
+| <kbd>Delete</kbd> | Remove Selected | Cart/Admin |
+
+</div>
 
 ---
 
@@ -764,6 +887,38 @@ MIT License - Feel free to use this project for learning purposes.
 <a href="#">
   <img src="https://img.shields.io/badge/💜_Share_With_Friends-8B5CF6?style=for-the-badge&logo=share&logoColor=white" alt="Share">
 </a>
+
+---
+
+<!-- 📱 QR CODE SECTION 📱 -->
+<h3>📱 Scan to Access Repository</h3>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="40"/>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/abdullah-darahem/ZarCafe_System&bgcolor=FFF8DC&color=4A2C2A" alt="QR Code" />
+
+*Scan with your phone to visit the repository instantly!*
+
+---
+
+<!-- 🔥 ACTIVITY STREAK ANIMATION 🔥 -->
+<h3>🔥 Project Activity</h3>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="45"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="55"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="45"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="35"/>
+
+| 📆 Stat | 📊 Value |
+|:-------:|:--------:|
+| 🗓️ Days Active | 24 |
+| 💻 Total Commits | 50+ |
+| 🔀 Merge Requests | 15+ |
+| 🐛 Issues Closed | 20+ |
+| ⚡ Avg. Commits/Day | 2+ |
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-darahem&theme=github-compact&hide_border=true&area=true&bg_color=FFF8DC&color=4A2C2A&line=6F4E37&point=A67B5B" width="90%" alt="Activity Graph"/>
 
 ---
 
