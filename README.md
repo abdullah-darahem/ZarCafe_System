@@ -3,6 +3,11 @@
 <!-- ☕ ELEGANT COFFEE HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A2C2A,50:6F4E37,100:A67B5B&height=200&section=header&text=☕%20Zar%20Cafe&fontSize=55&fontColor=FFF8DC&animation=fadeIn&fontAlignY=35&desc=Management%20System&descAlignY=55&descSize=20&descColor=DEB887"/>
 
+<!-- 🌟 SCROLLING MARQUEE TEXT 🌟 -->
+<marquee behavior="scroll" direction="left" scrollamount="5">
+🌟 Welcome to Zar Cafe System! 🌟 ☕ A Modern POS Solution ☕ 💻 Built with Java Swing 💻 🗄️ Powered by MySQL 🗄️ ✨ Professional & Beautiful ✨ 🚀 Version 2.0.0 🚀
+</marquee>
+
 <!-- Animated Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=600&height=60&lines=☕+A+Modern+Point+of+Sale+Solution;🏪+For+Coffee+Shops+%26+Cafes;💼+Built+with+Java+Swing+%26+MySQL)](https://git.io/typing-svg)
 
@@ -11,6 +16,37 @@
 
 <!-- ✨ Animated Coding GIF ✨ -->
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+<!-- 🏆 PROJECT HIGHLIGHTS 🏆 -->
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" width="40"/><br>
+<b>Started</b><br>
+Dec 2025
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Check%20Mark%20Button.png" width="40"/><br>
+<b>Status</b><br>
+Completed
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40"/><br>
+<b>Platform</b><br>
+Desktop
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" width="40"/><br>
+<b>Team</b><br>
+6 Members
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" width="40"/><br>
+<b>Files</b><br>
+15+ Java
+</td>
+</tr>
+</table>
 
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=abdullah-darahem-zarcafe&label=Visitors&color=6F4E37&style=for-the-badge" alt="visitors"/>
@@ -487,52 +523,100 @@ Contributions are welcome! Here's how you can help:
 
 <div align="center">
 
-<!-- Animated Handshake -->
-<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468f5596.gif" width="60">
+<!-- Animated Team Banner -->
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="700">
 
 ### ✨ Meet the Amazing Team Behind Zar Cafe ✨
+
+<!-- Fun Team Quote -->
+> 🎯 *"Alone we can do so little; together we can do so much."* — Helen Keller
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="60"/><br>
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/><br>
       <b>Abdullah Darahem</b><br>
-      <sub>💻 Lead Developer</sub>
+      <sub>👑 Lead Developer</sub><br>
+      <sub>☕ Coffee Lover #1</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="60"/><br>
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/><br>
       <b>Zeyad Salim</b><br>
-      <sub>💻 Developer</sub>
+      <sub>💻 Developer</sub><br>
+      <sub>🎨 UI Expert</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="60"/><br>
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/><br>
       <b>Rana Ehgannam</b><br>
-      <sub>💻 Developer</sub>
+      <sub>💻 Developer</sub><br>
+      <sub>🗄️ Database Pro</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="60"/><br>
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/><br>
       <b>Rewan Reda</b><br>
-      <sub>💻 Developer</sub>
+      <sub>💻 Developer</sub><br>
+      <sub>🧪 Tester</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="60"/><br>
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/><br>
       <b>Rawaa Elsayed</b><br>
-      <sub>💻 Developer</sub>
+      <sub>💻 Developer</sub><br>
+      <sub>📝 Documentation</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="60"/><br>
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/><br>
       <b>Rawan Osama</b><br>
-      <sub>💻 Developer</sub>
+      <sub>💻 Developer</sub><br>
+      <sub>✨ Quality Assurance</sub>
     </td>
   </tr>
 </table>
+
+<!-- Team Fun Stats -->
+<br>
+
+| ☕ Coffees Consumed | 💻 Lines of Code | 🐛 Bugs Fixed | 😴 Sleepless Nights |
+|:------------------:|:----------------:|:-------------:|:-------------------:|
+| 200+ | 5000+ | 100+ | Many! 😅 |
 
 </div>
 
 <!-- ✨ ANIMATED GRADIENT LINE ✨ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🎉 Fun Facts
+
+<div align="center">
+
+```
+    ( (
+     ) )
+  .........
+  |       |]
+  \       /    
+   `-----'     
+
+  ☕ COFFEE TIME ☕
+```
+
+</div>
+
+| 🎯 Did You Know? |
+|-----------------|
+| ☕ The team consumed enough coffee to fill a small swimming pool |
+| 🌙 Most commits were made between midnight and 3 AM |
+| 🐛 The first bug took 4 hours to fix - it was a missing semicolon |
+| 🎨 The UI was redesigned 5 times before we got it right |
+| 💡 The name "Zar" comes from team brainstorming session |
+| 🎵 Lo-fi hip hop was our coding soundtrack |
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4f7f5b5d1e41.gif" width="400">
+</div>
 
 ## 📝 Changelog
 
@@ -620,9 +704,33 @@ MIT License - Feel free to use this project for learning purposes.
 
 [![GitHub Star](https://img.shields.io/github/stars/abdullah-darahem/ZarCafe_System?style=for-the-badge&logo=github&color=yellow)](https://github.com/abdullah-darahem/ZarCafe_System/stargazers)
 
+<!-- ☕ BUY ME A COFFEE STYLE BUTTON -->
+<a href="#">
+  <img src="https://img.shields.io/badge/Buy_Us_A_Coffee-☕-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Us A Coffee">
+</a>
+
 ---
 
+<!-- 🌐 CONNECT WITH US -->
+<h3>🌐 Connect With The Team</h3>
+
+<p>
+<a href="mailto:zarcafe@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- 👋 ANIMATED GOODBYE -->
+<img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="150">
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="30" /> **Made with ❤️ and lots of ☕ by the Zar Cafe Team** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="30" />
+
+<!-- SCROLLING THANK YOU -->
+<marquee behavior="scroll" direction="left" scrollamount="3">
+❤️ Thank you for visiting! ❤️ ⭐ Don't forget to star! ⭐ ☕ Happy Coding! ☕ 🚀 See you soon! 🚀
+</marquee>
 
 *© 2025 Zar Cafe System. All Rights Reserved.*
 
