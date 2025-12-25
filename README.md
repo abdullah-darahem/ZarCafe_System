@@ -3,10 +3,19 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=☕%20Zar%20Cafe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Management%20System&descAlignY=52&descSize=18"/>
 
-### A Modern Point of Sale Solution for Coffee Shops
+<!-- Animated Typing Effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=☕+Welcome+to+Zar+Cafe+System;Modern+POS+for+Coffee+Shops;Built+with+Java+Swing+%26+MySQL;Manage+Orders%2C+Wallets+%26+More!)](https://git.io/typing-svg)
+
+<!-- Animated Coffee -->
+<img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="80" alt="coffee"/>
 
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=abdullah-darahem-zarcafe&label=Visitors&color=brightgreen&style=for-the-badge" alt="visitors"/>
+
+<!-- Animated Tech Stack Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,mysql,git&theme=dark" alt="Tech Stack" />
+</p>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -35,9 +44,18 @@
 
 *Click the button above to watch the complete 5-minute walkthrough*
 
+<!-- Quick Action Buttons -->
+<br>
+
+[![Clone](https://img.shields.io/badge/📥_Clone_Repo-181717?style=for-the-badge&logo=github)](https://github.com/abdullah-darahem/ZarCafe_System.git)
+[![Download ZIP](https://img.shields.io/badge/📦_Download_ZIP-28A745?style=for-the-badge&logo=download)](https://github.com/abdullah-darahem/ZarCafe_System/archive/refs/heads/main.zip)
+[![Report Bug](https://img.shields.io/badge/🐛_Report_Bug-DC3545?style=for-the-badge)](https://github.com/abdullah-darahem/ZarCafe_System/issues)
+[![Request Feature](https://img.shields.io/badge/✨_Request_Feature-6C63FF?style=for-the-badge)](https://github.com/abdullah-darahem/ZarCafe_System/issues)
+
 </div>
 
----
+<!-- Animated Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📑 Table of Contents
 
@@ -60,11 +78,22 @@
 
 </details>
 
----
+<!-- Animated Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📸 Application Tour
 
+<div align="center">
+
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera" width="25" /> *Explore our beautiful, intuitive interface*
+
+</div>
+
 The application follows a structured user flow with **alphabetical prefixes (A → E)** for intuitive navigation.
+
+<details>
+<summary>🖼️ <b>Click to Expand Full Screenshot Gallery</b></summary>
+<br>
 
 ### 🅰️ Entry Point
 | Welcome Screen |
@@ -96,7 +125,10 @@ The application follows a structured user flow with **alphabetical prefixes (A �
 | ![Admin](screenshots/admin.png) | ![Menu](screenshots/menu.png) | ![Sales](screenshots/sales.png) | ![Users](screenshots/users.png) |
 | `E__Admin_1.java` | `E__Admin_MENU.java` | `E__Admin_SALES.java` | `E__Admin_USERS.java` |
 
----
+</details>
+
+<!-- Animated Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 Key Features
 
@@ -132,11 +164,14 @@ The application follows a structured user flow with **alphabetical prefixes (A �
 ### ℹ️ C. Information Center
 * **About & Contact:** dedicated interfaces providing project information and developer contact details.
 
----
+<!-- Animated Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" /> *Built with industry-standard technologies*
 
 | Component | Technology | Purpose |
 |:---------:|:----------:|:--------|
@@ -405,16 +440,51 @@ Contributions are welcome! Here's how you can help:
 
 <div align="center">
 
-This project was proudly developed by:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" alt="Team" width="60" />
 
-| 👤 Member | Role |
-|:---------:|:----:|
-| **Abdullah Darahem** | 💻 Developer |
-| **Zeyad Salim** | 💻 Developer |
-| **Rana Ehgannam** | 💻 Developer |
-| **Rewan Reda** | 💻 Developer |
-| **Rawaa Elsayed** | 💻 Developer |
-| **Rawan Osama** | 💻 Developer |
+### ✨ Meet the Amazing Team Behind Zar Cafe ✨
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="60"/><br>
+      <b>Abdullah Darahem</b><br>
+      <sub>💻 Lead Developer</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="60"/><br>
+      <b>Zeyad Salim</b><br>
+      <sub>💻 Developer</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="60"/><br>
+      <b>Rana Ehgannam</b><br>
+      <sub>💻 Developer</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="60"/><br>
+      <b>Rewan Reda</b><br>
+      <sub>💻 Developer</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="60"/><br>
+      <b>Rawaa Elsayed</b><br>
+      <sub>💻 Developer</sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="60"/><br>
+      <b>Rawan Osama</b><br>
+      <sub>💻 Developer</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+<br><em>We love connecting with fellow developers!</em>
 
 </div>
 
@@ -456,10 +526,18 @@ This project was proudly developed by:
 
 ## 🙏 Acknowledgments
 
+<div align="center">
+
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="25" />
+> *"Life begins after coffee"* — Every Developer Ever
+
+</div>
+
 - 🎓 Our professors and mentors for guidance
 - ☕ Coffee for keeping us awake during development
 - 📚 Online resources and documentation
 - 💡 Open source community for inspiration
+- 🌟 Everyone who stars and supports this project
 
 ---
 
@@ -485,14 +563,23 @@ MIT License - Feel free to use this project for learning purposes.
 
 <div align="center">
 
-### ⭐ Star this repository if you found it helpful!
+### 💖 Support the Project
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="40" />
+
+**If you found this project helpful, please give it a star!**
 
 [![GitHub Star](https://img.shields.io/github/stars/abdullah-darahem/ZarCafe_System?style=for-the-badge&logo=github&color=yellow)](https://github.com/abdullah-darahem/ZarCafe_System/stargazers)
 
-**Made with ❤️ by the Zar Cafe Team**
+---
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="30" /> **Made with ❤️ and lots of ☕ by the Zar Cafe Team** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="30" />
 
 *© 2025 Zar Cafe System. All Rights Reserved.*
 
 [⬆ Back to Top](#-zar-cafe-management-system)
 
 </div>
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
