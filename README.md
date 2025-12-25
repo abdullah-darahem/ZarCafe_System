@@ -94,16 +94,6 @@ Desktop
 [![GitHub forks](https://img.shields.io/github/forks/abdullah-darahem/ZarCafe_System?style=social)](https://github.com/abdullah-darahem/ZarCafe_System/network/members)
 [![GitHub watchers](https://img.shields.io/github/watchers/abdullah-darahem/ZarCafe_System?style=social)](https://github.com/abdullah-darahem/ZarCafe_System/watchers)
 
-<!-- 🎧 CODING MUSIC VIBES 🎧 -->
-<br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="30"/>
-<b>Our Coding Soundtrack:</b> Lo-fi Hip Hop Beats 🎵
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="30"/>
-<br><br>
-
-<!-- 💬 MOTIVATIONAL QUOTE 💬 -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Random Dev Quote"/>
-
 <p align="center">
   <strong>A college-level Point of Sale (POS) desktop application developed as a software engineering project.</strong><br>
   This system streamlines coffee shop operations using a structured <b>Java Swing</b> interface and <b>MySQL</b> database.
@@ -733,10 +723,6 @@ gantt
 | 🎨 The UI was redesigned 5 times before we got it right |
 | 💡 The name "Zar" comes from team brainstorming session |
 | 🎵 Lo-fi hip hop was our coding soundtrack |
-
-<!-- 🎮 RANDOM JOKE API 🎮 -->
-<br>
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
 ---
 
