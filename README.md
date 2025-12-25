@@ -196,8 +196,8 @@ Desktop
 
 The application follows a structured user flow with **alphabetical prefixes (A → E)** for intuitive navigation.
 
-<details>
-<summary>🖼️ <b>Click to Expand Full Screenshot Gallery</b></summary>
+<details open>
+<summary>🖼️ <b>Screenshot Gallery</b></summary>
 <br>
 
 ### 🅰️ Entry Point
