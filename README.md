@@ -4,18 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A2C2A,50:6F4E37,100:A67B5B&height=220&section=header&text=☕%20Zar%20Cafe&fontSize=60&fontColor=FFF8DC&animation=twinkling&fontAlignY=35&desc=✨%20Management%20System%20✨&descAlignY=55&descSize=22&descColor=DEB887&stroke=FFF8DC&strokeWidth=2"/>
 
 <!-- 🌟 EPIC WELCOME ANIMATION 🌟 -->
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=2500&pause=1000&color=6F4E37&center=true&vCenter=true&width=600&height=70&lines=🌟+WELCOME+TO+ZAR+CAFE+🌟;☕+The+Best+POS+System+☕;🚀+Built+with+Love+%26+Coffee+🚀" alt="Welcome Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=2500&pause=1000&color=6F4E37&center=true&vCenter=true&width=600&height=70&lines=%E2%98%95+WELCOME+TO+ZAR+CAFE+%E2%98%95;%F0%9F%8C%9F+The+Best+POS+System+%F0%9F%8C%9F;%F0%9F%9A%80+Built+with+Love+%26+Coffee+%F0%9F%9A%80" alt="Welcome Animation" />
 
 <!-- 🌈 ANIMATED NEON LINE 🌈 -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<!-- 🌟 SCROLLING MARQUEE TEXT 🌟 -->
-<marquee behavior="scroll" direction="left" scrollamount="5">
-⭐ Welcome to Zar Cafe System! ⭐ ☕ A Modern POS Solution ☕ 💻 Built with Java Swing 💻 🗄️ Powered by MySQL 🗄️ ✨ Professional & Beautiful ✨ 🚀 Version 2.0.0 🚀 🌟 THE BEST REPOSITORY EVER 🌟
-</marquee>
-
 <!-- Animated Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=600&height=60&lines=☕+A+Modern+Point+of+Sale+Solution;🏪+For+Coffee+Shops+%26+Cafes;💼+Built+with+Java+Swing+%26+MySQL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=600&height=60&lines=%E2%98%95+A+Modern+Point+of+Sale+Solution;%F0%9F%8F%AA+For+Coffee+Shops+%26+Cafes;%F0%9F%92%BC+Built+with+Java+Swing+%26+MySQL)](https://git.io/typing-svg)
 
 <!-- Animated Coffee -->
 <img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="80" alt="coffee"/>
