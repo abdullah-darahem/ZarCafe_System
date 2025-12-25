@@ -1,7 +1,24 @@
 <div align="center">
 
+<!-- � 3D ROTATING COFFEE LOGO 🎯 -->
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="120" alt="3D Coffee"/>
+
+<!-- 🏃 RUNNING EMOJIS ANIMATION 🏃 -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="35"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="40"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="35"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="30"/>
+
 <!-- 🌟✨ EPIC ANIMATED HEADER ✨🌟 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A2C2A,50:6F4E37,100:A67B5B&height=220&section=header&text=☕%20Zar%20Cafe&fontSize=60&fontColor=FFF8DC&animation=twinkling&fontAlignY=35&desc=✨%20Management%20System%20✨&descAlignY=55&descSize=22&descColor=DEB887&stroke=FFF8DC&strokeWidth=2"/>
+
+<!-- 🎪 MARQUEE ANNOUNCEMENT TICKER 🎪 -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=14&duration=1500&pause=100&color=FFD700&center=true&vCenter=true&width=800&height=30&lines=🚀+NOW+AVAILABLE+v2.0+•+WALLET+SYSTEM+•+ORDER+HISTORY+•+PROFILE+DASHBOARD+🚀;⭐+STAR+THIS+REPO+•+FORK+IT+•+SHARE+WITH+FRIENDS+•+CONTRIBUTE+⭐;☕+BUILT+WITH+LOVE+%26+COFFEE+•+6+DEVELOPERS+•+5000%2B+LINES+OF+CODE+☕" alt="Marquee" />
 
 <!-- 🌟 EPIC WELCOME ANIMATION 🌟 -->
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=2500&pause=1000&color=6F4E37&center=true&vCenter=true&width=600&height=70&lines=%E2%98%95+WELCOME+TO+ZAR+CAFE+%E2%98%95;%F0%9F%8C%9F+The+Best+POS+System+%F0%9F%8C%9F;%F0%9F%9A%80+Built+with+Love+%26+Coffee+%F0%9F%9A%80" alt="Welcome Animation" />
@@ -77,18 +94,23 @@ Desktop
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="40"/>
 <br><br>
 
-<!-- Tech Stack -->
+<!-- 🌀 SPINNING TECH WHEEL 🌀 -->
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+
+<!-- 🔮 3D ISOMETRIC TECH ICONS 🔮 -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,mysql,git&theme=light" alt="Tech Stack" />
 </p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
-![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-2.0.0-blue?style=for-the-badge)
-![Updated](https://img.shields.io/badge/Updated-December%202025-orange?style=for-the-badge)
+<!-- 💫 HOLOGRAPHIC GRADIENT BADGES 💫 -->
+<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=black" alt="Java"/></a>
+<a href="#"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black" alt="MySQL"/></a>
+<a href="#"><img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white&labelColor=black" alt="NetBeans"/></a>
+<br>
+<a href="#"><img src="https://img.shields.io/badge/License-Educational-00FF00?style=for-the-badge&labelColor=black" alt="License"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Status-Completed-00FF00?style=for-the-badge&labelColor=black" alt="Status"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Version-2.0.0-00BFFF?style=for-the-badge&labelColor=black" alt="Version"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Updated-December%202025-FF6347?style=for-the-badge&labelColor=black" alt="Updated"/></a>
 
 [![GitHub stars](https://img.shields.io/github/stars/abdullah-darahem/ZarCafe_System?style=social)](https://github.com/abdullah-darahem/ZarCafe_System/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/abdullah-darahem/ZarCafe_System?style=social)](https://github.com/abdullah-darahem/ZarCafe_System/network/members)
@@ -286,7 +308,40 @@ The application follows a structured user flow with **alphabetical prefixes (A �
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80">
 </div>
 
-## 🚀 Key Features
+<!-- 🌊 WAVE TEXT EFFECT 🌊 -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&duration=2000&pause=500&color=6F4E37&center=true&vCenter=true&width=500&height=60&lines=🚀+KEY+FEATURES" alt="Key Features" />
+</div>
+
+<!-- 📊 ANIMATED STATS COUNTER 📊 -->
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="40"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=500&pause=2000&color=6F4E37&center=true&vCenter=true&width=80&height=40&lines=15%2B" alt="15+" /><br>
+<b>Java Files</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="40"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=500&pause=2000&color=6F4E37&center=true&vCenter=true&width=80&height=40&lines=5K%2B" alt="5K+" /><br>
+<b>Lines of Code</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="40"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=500&pause=2000&color=6F4E37&center=true&vCenter=true&width=80&height=40&lines=200%2B" alt="200+" /><br>
+<b>Coffees</b>
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="40"/><br>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=500&pause=2000&color=6F4E37&center=true&vCenter=true&width=80&height=40&lines=100%25" alt="100%" /><br>
+<b>Passion</b>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
 
 ### 👤 A. & B. User Access Control
 * **Welcome Hub:** centralized entry point guiding users to login or register.
@@ -327,7 +382,23 @@ The application follows a structured user flow with **alphabetical prefixes (A �
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-## 🛠️ Tech Stack
+<!-- 💎 CRYSTAL DIAMOND DIVIDER 💎 -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="20"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="25"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="35"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="40"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="35"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="25"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="20"/>
+</div>
+
+<!-- ⚡ NEON GLOW TEXT ⚡ -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=400&height=50&lines=🛠️+TECH+STACK" alt="Tech Stack" />
+</div>
 
 <div align="center">
 
@@ -346,14 +417,16 @@ The application follows a structured user flow with **alphabetical prefixes (A �
 
 ### 💪 Technology Proficiency
 
-```
-Java          ████████████████████████░░   95%
-Swing UI      ██████████████████████░░░░   88%
-MySQL         ████████████████████░░░░░░   80%
-JDBC          ███████████████████░░░░░░░   75%
-UI/UX Design  █████████████████░░░░░░░░░   68%
-Documentation ██████████████████████████  100%
-```
+<!-- 📈 ANIMATED PROGRESS BARS 📈 -->
+
+| Technology | Progress | Level |
+|:----------:|:--------:|:-----:|
+| <img src="https://skillicons.dev/icons?i=java" width="30"/> Java | ![](https://geps.dev/progress/95?dangerColor=4A2C2A&warningColor=6F4E37&successColor=A67B5B) | 🔥 Expert |
+| <img src="https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white" height="20"/> Swing UI | ![](https://geps.dev/progress/88?dangerColor=4A2C2A&warningColor=6F4E37&successColor=A67B5B) | 💪 Advanced |
+| <img src="https://skillicons.dev/icons?i=mysql" width="30"/> MySQL | ![](https://geps.dev/progress/80?dangerColor=4A2C2A&warningColor=6F4E37&successColor=A67B5B) | 💪 Advanced |
+| <img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=java&logoColor=white" height="20"/> JDBC | ![](https://geps.dev/progress/75?dangerColor=4A2C2A&warningColor=6F4E37&successColor=A67B5B) | 📚 Proficient |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="25"/> UI/UX | ![](https://geps.dev/progress/68?dangerColor=4A2C2A&warningColor=6F4E37&successColor=A67B5B) | 📚 Proficient |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25"/> Docs | ![](https://geps.dev/progress/100?dangerColor=4A2C2A&warningColor=6F4E37&successColor=A67B5B) | 🏆 Master |
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> **Always learning, always growing!**
 
@@ -380,9 +453,18 @@ Before you begin, ensure you have the following installed:
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300">
 </div>
 
-## ⚙️ Installation & Setup Guide
+<!-- 🌈 MORPHING GRADIENT SECTION 🌈 -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=80&section=header&text=⚙️%20Installation%20%26%20Setup&fontSize=30&fontColor=FFF8DC&animation=fadeIn"/>
+</div>
 
 ### ⚡ Quick Start
+
+<!-- 🎬 ANIMATED CODE BLOCK 🎬 -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=50&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=120&lines=%24+git+clone+https%3A%2F%2Fgithub.com%2Fabdullah-darahem%2FZarCafe_System.git;%24+cd+ZarCafe_System;%24+mysql+-u+root+-p+%3C+database%2Fdatabase_setup.sql;%24+netbeans+.+%26%26+echo+'Ready+to+run!'" alt="Code Animation" />
+</div>
+
 ```bash
 # 1. Clone the repository
 git clone https://github.com/abdullah-darahem/ZarCafe_System.git
@@ -547,6 +629,17 @@ erDiagram
 
 ### 🍽️ Sample Menu Items
 
+<!-- 🏃 BOUNCING FOOD EMOJIS 🏃 -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Shortcake.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Sandwich.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Ice%20Cream.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Teacup%20Without%20Handle.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Cookie.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Doughnut.png" width="30"/>
+</div>
+
 | Item | Price (EGP) |
 |:----:|:-----------:|
 | ☕ Coffee | 50 |
@@ -562,19 +655,32 @@ erDiagram
 <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="100">
 </div>
 
-## ❓ Troubleshooting
+<!-- 🎮 INTERACTIVE TROUBLESHOOTING SECTION 🎮 -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2000&pause=1000&color=FF6347&center=true&vCenter=true&width=350&height=40&lines=❓+TROUBLESHOOTING" alt="Troubleshooting" />
+</div>
 
-| Issue | Solution |
-|-------|----------|
-| `ClassNotFoundException: com.mysql.cj.jdbc.Driver` | Ensure JDBC driver is added to project libraries |
-| `Access denied for user 'root'` | Verify credentials in `DBConnection.java` |
-| Database connection failed | Check if MySQL service is running |
-| Tables not found | Re-import `database_setup.sql` |
+<!-- 🎮 GAME-STYLE ERROR BADGES 🎮 -->
+<div align="center">
+
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Warning.png" width="20"/> Issue | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="20"/> Solution |
+|:------|:---------|
+| ![](https://img.shields.io/badge/ClassNotFoundException-FF0000?style=flat-square) | ✅ Ensure JDBC driver is added to project libraries |
+| ![](https://img.shields.io/badge/Access_Denied-FF4500?style=flat-square) | ✅ Verify credentials in `DBConnection.java` |
+| ![](https://img.shields.io/badge/Connection_Failed-FF6347?style=flat-square) | ✅ Check if MySQL service is running |
+| ![](https://img.shields.io/badge/Tables_Not_Found-FFA500?style=flat-square) | ✅ Re-import `database_setup.sql` |
+
+</div>
 
 ---
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216654124-763f0bd5-2b5e-4cd8-80c3-352d35667a22.gif" width="120">
+</div>
+
+<!-- 🔒 3D SECURITY SECTION 🔒 -->
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300"/>
 </div>
 
 ## 🔐 Technical Highlights
@@ -608,7 +714,14 @@ ON DELETE CASCADE;
 <img src="https://user-images.githubusercontent.com/74038190/216656956-c5f97119-4a9e-405e-8cf3-fb9a4ed7f5b6.gif" width="150">
 </div>
 
-## 🔮 Future Enhancements
+<!-- 🌈 MORPHING GRADIENT SECTION 🌈 -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=60&section=header&text=🔮%20Future%20Enhancements&fontSize=25&fontColor=FFF&animation=twinkling"/>
+</div>
+
+<div align="center">
+
+<!-- 🎮 INTERACTIVE STATUS BADGES 🎮 -->
 
 | Priority | Feature | Status |
 |:--------:|---------|:------:|
@@ -646,8 +759,27 @@ Contributions are welcome! Here's how you can help:
 
 <div align="center">
 
+<!-- 💎 CRYSTAL DIVIDER 💎 -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="15"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="20"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="25"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="25"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="20"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="15"/>
 
-### ✨ Meet the Amazing Team Behind Zar Cafe ✨
+<!-- 🌊 WAVE TITLE 🌊 -->
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=2000&pause=1000&color=6F4E37&center=true&vCenter=true&width=500&height=50&lines=✨+Meet+The+Amazing+Team+✨;The+Dream+Team+🚀;Powered+by+Coffee+☕" alt="Team" />
+
+<!-- 🏃 BOUNCING TEAM EMOJIS 🏃 -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="35"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="35"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="35"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="35"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="35"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="35"/>
+
+<br><br>
 
 <table>
   <tr>
@@ -728,16 +860,11 @@ gantt
 
 <div align="center">
 
-```
-    ( (
-     ) )
-  .........
-  |       |]
-  \       /    
-   `-----'     
+<!-- 🎯 3D ANIMATED COFFEE CUP 🎯 -->
+<img src="https://media.giphy.com/media/xT9DPBMumj2Q0hlI3K/giphy.gif" width="120"/>
 
-  ☕ COFFEE TIME ☕
-```
+<!-- 🌊 WAVE EFFECT TITLE 🌊 -->
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=2000&pause=1000&color=6F4E37&center=true&vCenter=true&width=400&height=40&lines=☕+COFFEE+TIME+☕;Fun+Facts+Inside!+🎯" alt="Coffee" />
 
 </div>
 
@@ -757,6 +884,10 @@ gantt
 
 ## 🏅 Achievement Unlocked!
 
+<!-- 🎮 ANIMATED GAMING HEADER 🎮 -->
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=1000&pause=500&color=FFD700&center=true&vCenter=true&width=500&height=30&lines=ACHIEVEMENT+UNLOCKED!;LEVEL+UP!;+100+XP+EARNED!" alt="Achievement" />
+
+<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" width="50"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="50"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="60"/>
@@ -827,9 +958,20 @@ gantt
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4f7f5b5d1e41.gif" width="400">
 </div>
 
-## 📝 Changelog
+<!-- 📝 ANIMATED CHANGELOG HEADER 📝 -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=80&section=header&text=📝%20CHANGELOG&fontSize=40&fontColor=6F4E37&animation=fadeIn&desc=Version%20History&descSize=15&descAlignY=75"/>
+</div>
 
 ### 🚀 Version 2.0.0 (December 2025)
+
+<!-- 🌟 NEW VERSION ANIMATED BADGE 🌟 -->
+<div align="center">
+<img src="https://img.shields.io/badge/VERSION-2.0.0-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="Version"/>
+<img src="https://img.shields.io/badge/STATUS-STABLE-00FF00?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=black" alt="Stable"/>
+<img src="https://img.shields.io/badge/RELEASE-DEC_2025-FFD700?style=for-the-badge&logo=calendar&logoColor=white&labelColor=black" alt="Release"/>
+</div>
+<br>
 
 #### 💰 New Features
 - **Wallet System:** Electronic wallet for cashless payments
@@ -865,6 +1007,16 @@ gantt
 ## 🙏 Acknowledgments
 
 <div align="center">
+
+<!-- 💖 ANIMATED HEARTS 💖 -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" width="35"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="40"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" width="35"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" width="30"/>
+
+<!-- 🌊 WAVE THANK YOU 🌊 -->
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=28&duration=2500&pause=1000&color=6F4E37&center=true&vCenter=true&width=450&height=50&lines=Thank+You+So+Much!+🙏;We+Appreciate+You!+❤️;You're+Amazing!+⭐" alt="Thanks" />
 
 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="25" />
 > *"Life begins after coffee"* — Every Developer Ever
