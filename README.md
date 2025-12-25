@@ -202,35 +202,80 @@ The application follows a structured user flow with **alphabetical prefixes (A �
 </summary>
 <br>
 
-### 🅰️ Entry Point
-| Welcome Screen |
+<!-- 🅰️ ENTRY POINT -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/A%20Button%20(Blood%20Type).png" width="40"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=18&duration=2000&pause=1000&color=4A2C2A&center=true&vCenter=true&width=200&height=25&lines=Entry+Point" alt="Entry Point" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30"/>
+
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20"/> Welcome Screen <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="20"/> |
 |:---:|
-| ![Welcome](screenshots/welcome.png) |
-| `A__Welcome.java` - Application launcher |
+| <img src="screenshots/welcome.png" width="400"/> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="18"/> `A__Welcome.java` - Application launcher |
+</div>
 
-### 🅱️ Authentication Module
-| Login | Signup |
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4571-a59f-0bb0bf6f96c6.gif" width="100">
+
+<!-- 🅱️ AUTHENTICATION MODULE -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/B%20Button%20(Blood%20Type).png" width="40"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=18&duration=2000&pause=1000&color=4A2C2A&center=true&vCenter=true&width=250&height=25&lines=Authentication+Module" alt="Auth" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="30"/>
+
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Key.png" width="18"/> Login | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="18"/> Signup |
 |:---:|:---:|
-| ![Login](screenshots/login.png) | ![Signup](screenshots/signup.png) |
-| `B__Login.java` - Secure access | `B__Signup.java` - New registration |
+| <img src="screenshots/login.png" width="350"/> | <img src="screenshots/signup.png" width="350"/> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="15"/> `B__Login.java` - Secure access | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="15"/> `B__Signup.java` - New registration |
+</div>
 
-### 🅲 Information Center
-| About Us | Contact Us |
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4571-a59f-0bb0bf6f96c6.gif" width="100">
+
+<!-- 🅲 INFORMATION CENTER -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/O%20Button%20(Blood%20Type).png" width="40"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=18&duration=2000&pause=1000&color=4A2C2A&center=true&vCenter=true&width=220&height=25&lines=Information+Center" alt="Info" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="30"/>
+
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" width="18"/> About Us | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="18"/> Contact Us |
 |:---:|:---:|
-| ![About](screenshots/about.png) | ![Contact](screenshots/contact.png) |
-| `C__About_us.java` | `C__contact_us.java` |
+| <img src="screenshots/about.png" width="350"/> | <img src="screenshots/contact.png" width="350"/> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="15"/> `C__About_us.java` | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="15"/> `C__contact_us.java` |
+</div>
 
-### 🅳 User Module
-| Order System | Profile & Wallet |
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4571-a59f-0bb0bf6f96c6.gif" width="100">
+
+<!-- 🅳 USER MODULE -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/AB%20Button%20(Blood%20Type).png" width="40"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=18&duration=2000&pause=1000&color=4A2C2A&center=true&vCenter=true&width=180&height=25&lines=User+Module" alt="User" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Bust%20in%20Silhouette.png" width="30"/>
+
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="18"/> Order System | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="18"/> Profile & Wallet |
 |:---:|:---:|
-| ![Order](screenshots/order.png) | ![Profile](screenshots/profile.png) |
-| `D__User_ORDERS.java` - POS Interface | `D__Order_PROFILE.java` - User Dashboard |
+| <img src="screenshots/order.png" width="350"/> | <img src="screenshots/profile.png" width="350"/> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="15"/> `D__User_ORDERS.java` - POS Interface | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="15"/> `D__Order_PROFILE.java` - User Dashboard |
+</div>
 
-### 🅴 Admin Module
-| Dashboard | Menu Management | Sales Reports | User Management |
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4571-a59f-0bb0bf6f96c6.gif" width="100">
+
+<!-- 🅴 ADMIN MODULE -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/P%20Button.png" width="40"/>
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=18&duration=2000&pause=1000&color=4A2C2A&center=true&vCenter=true&width=180&height=25&lines=Admin+Module" alt="Admin" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crown.png" width="30"/>
+
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="15"/> Dashboard | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Shortcake.png" width="15"/> Menu | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20with%20Wings.png" width="15"/> Sales | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" width="15"/> Users |
 |:---:|:---:|:---:|:---:|
-| ![Admin](screenshots/admin.png) | ![Menu](screenshots/menu.png) | ![Sales](screenshots/sales.png) | ![Users](screenshots/users.png) |
-| `E__Admin_1.java` | `E__Admin_MENU.java` | `E__Admin_SALES.java` | `E__Admin_USERS.java` |
+| <img src="screenshots/admin.png" width="180"/> | <img src="screenshots/menu.png" width="180"/> | <img src="screenshots/sales.png" width="180"/> | <img src="screenshots/users.png" width="180"/> |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="12"/> `E__Admin_1.java` | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="12"/> `E__Admin_MENU.java` | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="12"/> `E__Admin_SALES.java` | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="12"/> `E__Admin_USERS.java` |
+</div>
+
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="25"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="25"/>
+<i>Beautiful UI, isn't it?</i>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" width="25"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="25"/>
 
 </details>
 
