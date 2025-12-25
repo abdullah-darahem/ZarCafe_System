@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- � 3D ROTATING COFFEE LOGO 🎯 -->
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="120" alt="3D Coffee"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="120" alt="3D Coffee"/>
 
 <!-- 🏃 RUNNING EMOJIS ANIMATION 🏃 -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="30"/>
@@ -30,7 +30,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3000&pause=1000&color=6F4E37&center=true&vCenter=true&width=600&height=60&lines=%E2%98%95+A+Modern+Point+of+Sale+Solution;%F0%9F%8F%AA+For+Coffee+Shops+%26+Cafes;%F0%9F%92%BC+Built+with+Java+Swing+%26+MySQL)](https://git.io/typing-svg)
 
 <!-- Animated Coffee -->
-<img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="80" alt="coffee"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="80" alt="coffee"/>
 
 <!-- 🏆 TROPHY SHOWCASE 🏆 -->
 <br>
@@ -421,12 +421,12 @@ The application follows a structured user flow with **alphabetical prefixes (A �
 
 | Technology | Progress | Level |
 |:----------:|:--------:|:-----:|
-| <img src="https://skillicons.dev/icons?i=java" width="30"/> Java | ![](https://geps.dev/progress/95?dangerColor=4A2C2A&warningColor=6F4E37&successColor=A67B5B) | 🔥 Expert |
-| <img src="https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white" height="20"/> Swing UI | ![](https://geps.dev/progress/88?dangerColor=4A2C2A&warningColor=6F4E37&successColor=A67B5B) | 💪 Advanced |
-| <img src="https://skillicons.dev/icons?i=mysql" width="30"/> MySQL | ![](https://geps.dev/progress/80?dangerColor=4A2C2A&warningColor=6F4E37&successColor=A67B5B) | 💪 Advanced |
-| <img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=java&logoColor=white" height="20"/> JDBC | ![](https://geps.dev/progress/75?dangerColor=4A2C2A&warningColor=6F4E37&successColor=A67B5B) | 📚 Proficient |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="25"/> UI/UX | ![](https://geps.dev/progress/68?dangerColor=4A2C2A&warningColor=6F4E37&successColor=A67B5B) | 📚 Proficient |
-| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25"/> Docs | ![](https://geps.dev/progress/100?dangerColor=4A2C2A&warningColor=6F4E37&successColor=A67B5B) | 🏆 Master |
+| <img src="https://skillicons.dev/icons?i=java" width="30"/> Java | ![95%](https://img.shields.io/badge/95%25-4A2C2A?style=flat-square&labelColor=6F4E37) █████████░ | 🔥 Expert |
+| <img src="https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white" height="20"/> Swing UI | ![88%](https://img.shields.io/badge/88%25-4A2C2A?style=flat-square&labelColor=6F4E37) ████████░░ | 💪 Advanced |
+| <img src="https://skillicons.dev/icons?i=mysql" width="30"/> MySQL | ![80%](https://img.shields.io/badge/80%25-4A2C2A?style=flat-square&labelColor=6F4E37) ████████░░ | 💪 Advanced |
+| <img src="https://img.shields.io/badge/JDBC-4479A1?style=flat-square&logo=java&logoColor=white" height="20"/> JDBC | ![75%](https://img.shields.io/badge/75%25-4A2C2A?style=flat-square&labelColor=6F4E37) ███████░░░ | 📚 Proficient |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Artist%20Palette.png" width="25"/> UI/UX | ![68%](https://img.shields.io/badge/68%25-4A2C2A?style=flat-square&labelColor=6F4E37) ██████░░░░ | 📚 Proficient |
+| <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="25"/> Docs | ![100%](https://img.shields.io/badge/100%25-4A2C2A?style=flat-square&labelColor=6F4E37) ██████████ | 🏆 Master |
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/> **Always learning, always growing!**
 
@@ -861,7 +861,7 @@ gantt
 <div align="center">
 
 <!-- 🎯 3D ANIMATED COFFEE CUP 🎯 -->
-<img src="https://media.giphy.com/media/xT9DPBMumj2Q0hlI3K/giphy.gif" width="120"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2bc.gif" width="100"/>
 
 <!-- 🌊 WAVE EFFECT TITLE 🌊 -->
 <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=2000&pause=1000&color=6F4E37&center=true&vCenter=true&width=400&height=40&lines=☕+COFFEE+TIME+☕;Fun+Facts+Inside!+🎯" alt="Coffee" />
