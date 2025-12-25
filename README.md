@@ -1,8 +1,12 @@
 <div align="center">
 
-# ☕ Zar Cafe Management System
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=☕%20Zar%20Cafe&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Management%20System&descAlignY=52&descSize=18"/>
 
 ### A Modern Point of Sale Solution for Coffee Shops
+
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=abdullah-darahem-zarcafe&label=Visitors&color=brightgreen&style=for-the-badge" alt="visitors"/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -12,12 +16,24 @@
 ![Version](https://img.shields.io/badge/Version-2.0.0-blue?style=for-the-badge)
 ![Updated](https://img.shields.io/badge/Updated-December%202025-orange?style=for-the-badge)
 
+[![GitHub stars](https://img.shields.io/github/stars/abdullah-darahem/ZarCafe_System?style=social)](https://github.com/abdullah-darahem/ZarCafe_System/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/abdullah-darahem/ZarCafe_System?style=social)](https://github.com/abdullah-darahem/ZarCafe_System/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/abdullah-darahem/ZarCafe_System?style=social)](https://github.com/abdullah-darahem/ZarCafe_System/watchers)
+
 <p align="center">
   <strong>A college-level Point of Sale (POS) desktop application developed as a software engineering project.</strong><br>
   This system streamlines coffee shop operations using a structured <b>Java Swing</b> interface and <b>MySQL</b> database.
 </p>
 
 [Features](#-key-features) • [Installation](#️-installation--setup-guide) • [Screenshots](#-application-tour) • [Team](#-team-members)
+
+<br>
+
+### 🎬 Watch Full Demo
+
+[![Watch Demo](https://img.shields.io/badge/▶_Watch_Full_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/12ca1i_MeDqMy2uFxcE-72gWRjlKziEVQ/view)
+
+*Click the button above to watch the complete 5-minute walkthrough*
 
 </div>
 
@@ -28,6 +44,7 @@
 <details>
 <summary>Click to expand</summary>
 
+- [Demo](#-watch-full-demo)
 - [Application Tour](#-application-tour)
 - [Key Features](#-key-features)
 - [Tech Stack](#️-tech-stack)
@@ -152,7 +169,7 @@ Before you begin, ensure you have the following installed:
 ### ⚡ Quick Start
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/ZarCafe.git
+git clone https://github.com/abdullah-darahem/ZarCafe_System.git
 
 # 2. Import database/database_setup.sql into MySQL
 
@@ -458,7 +475,19 @@ MIT License - Feel free to use this project for learning purposes.
 
 <div align="center">
 
+## 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=abdullah-darahem/ZarCafe_System&type=Date)](https://star-history.com/#abdullah-darahem/ZarCafe_System&Date)
+
+</div>
+
+---
+
+<div align="center">
+
 ### ⭐ Star this repository if you found it helpful!
+
+[![GitHub Star](https://img.shields.io/github/stars/abdullah-darahem/ZarCafe_System?style=for-the-badge&logo=github&color=yellow)](https://github.com/abdullah-darahem/ZarCafe_System/stargazers)
 
 **Made with ❤️ by the Zar Cafe Team**
 
