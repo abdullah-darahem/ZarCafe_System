@@ -462,6 +462,15 @@ ON DELETE CASCADE;
 
 ## 🔮 Future Enhancements
 
+<div align="center">
+
+<!-- Crystal Ball Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/216656977-e1c5dc68-8b2f-4aef-b794-ed1e108ec739.gif" width="100">
+
+**🚀 Charting the course for intergalactic features 🚀**
+
+</div>
+
 | Priority | Feature | Status |
 |:--------:|---------|:------:|
 | ✅ Done | Wallet system with transactions | ✅ Completed v2.0 |
@@ -477,6 +486,14 @@ ON DELETE CASCADE;
 
 ## 🤝 Contributing
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4571-9275-3c99c7e19826.gif" width="150">
+
+**🌌 Join Our Cosmic Mission! 🌌**
+
+</div>
+
 Contributions are welcome! Here's how you can help:
 
 1. 🍴 **Fork** the repository
@@ -491,53 +508,69 @@ Contributions are welcome! Here's how you can help:
 
 ## 👨‍💻 Team Members
 
+<!-- 🌌 SPACE STATION TEAM -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" alt="Team" width="60" />
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="120">
 
-### ✨ Meet the Amazing Team Behind Zar Cafe ✨
+### 🚀 Mission Control: The Cosmic Crew Behind Zar Cafe 🌟
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="40"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ringed%20Planet.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="40"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/>
+
+<br><br>
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="60"/><br>
-      <b>Abdullah Darahem</b><br>
-      <sub>💻 Lead Developer</sub>
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"/><br>
+      <b>✨ Abdullah Darahem ✨</b><br>
+      <sub>🚀 Mission Commander</sub><br>
+      <sub><i>Lead Developer</i></sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="60"/><br>
-      <b>Zeyad Salim</b><br>
-      <sub>💻 Developer</sub>
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"/><br>
+      <b>✨ Zeyad Salim ✨</b><br>
+      <sub>🛸 Systems Engineer</sub><br>
+      <sub><i>Developer</i></sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="60"/><br>
-      <b>Rana Ehgannam</b><br>
-      <sub>💻 Developer</sub>
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"/><br>
+      <b>✨ Rana Ehgannam ✨</b><br>
+      <sub>🌟 Star Navigator</sub><br>
+      <sub><i>Developer</i></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="60"/><br>
-      <b>Rewan Reda</b><br>
-      <sub>💻 Developer</sub>
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"/><br>
+      <b>✨ Rewan Reda ✨</b><br>
+      <sub>🌌 Galaxy Architect</sub><br>
+      <sub><i>Developer</i></sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="60"/><br>
-      <b>Rawaa Elsayed</b><br>
-      <sub>💻 Developer</sub>
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"/><br>
+      <b>✨ Rawaa Elsayed ✨</b><br>
+      <sub>🔭 Cosmic Explorer</sub><br>
+      <sub><i>Developer</i></sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="60"/><br>
-      <b>Rawan Osama</b><br>
-      <sub>💻 Developer</sub>
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"/><br>
+      <b>✨ Rawan Osama ✨</b><br>
+      <sub>🌠 Nebula Designer</sub><br>
+      <sub><i>Developer</i></sub>
     </td>
   </tr>
 </table>
 
 <br>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-<br><em>We love connecting with fellow developers!</em>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="150" />
+<br>
+<em>🌌 "From the cosmos to your coffee cup" 🌌</em>
 
 </div>
 
@@ -581,8 +614,11 @@ Contributions are welcome! Here's how you can help:
 
 <div align="center">
 
+<!-- Grateful Heart Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/216654124-763f0bd5-2b5e-4cd8-80c3-352d35667a22.gif" width="150">
+
 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="25" />
-> *"Life begins after coffee"* — Every Developer Ever
+> *"In the vast cosmos, coffee is the fuel that powers our code"* — Martian Developers
 
 </div>
 
@@ -608,31 +644,63 @@ MIT License - Feel free to use this project for learning purposes.
 
 ## 🌟 Star History
 
+<!-- Orbiting Planets -->
+<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100" />
+
 [![Star History Chart](https://api.star-history.com/svg?repos=abdullah-darahem/ZarCafe_System&type=Date)](https://star-history.com/#abdullah-darahem/ZarCafe_System&Date)
 
 </div>
 
----
+<!-- 🌌 COSMIC NEON DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
 
-### 💖 Support the Project
+<!-- 🚀 EPIC COSMIC FINALE -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="40" />
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 
-**If you found this project helpful, please give it a star!**
+### 💖 Support the Cosmic Mission
 
-[![GitHub Star](https://img.shields.io/github/stars/abdullah-darahem/ZarCafe_System?style=for-the-badge&logo=github&color=yellow)](https://github.com/abdullah-darahem/ZarCafe_System/stargazers)
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="50" />
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80">
+
+**🚀 If this project was out of this world, give it a star! 🚀**
+
+[![GitHub Star](https://img.shields.io/github/stars/abdullah-darahem/ZarCafe_System?style=for-the-badge&logo=github&color=yellow&labelColor=black)](https://github.com/abdullah-darahem/ZarCafe_System/stargazers)
 
 ---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="30" /> **Made with ❤️ and lots of ☕ by the Zar Cafe Team** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="30" />
+<!-- Space Party -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="50"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="35" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" width="50"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30"/>
 
-*© 2025 Zar Cafe System. All Rights Reserved.*
+**🌌 Made with ❤️, lots of ☕, and stardust by the Zar Cafe Cosmic Crew 🌌**
 
-[⬆ Back to Top](#-zar-cafe-management-system)
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="800">
+
+*"🛸 Beaming quality code from Mars since 2025 🛸"*
+
+---
+
+*© 2025 Zar Cafe System. All Rights Reserved Across the Galaxy.*
+
+[⬆ Teleport to Top](#-zar-cafe-management-system)
+
+<br>
+
+<!-- Animated Alien Goodbye -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" width="40"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute.png" width="40"/>
+<b>Live Long and Drink Coffee</b>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute.png" width="40"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" width="40"/>
 
 </div>
 
-<!-- Animated Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<!-- 🌊 COSMIC VENOM FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=🛸%20See%20You%20In%20The%20Stars%20🛸&fontSize=20&fontColor=fff&animation=twinkling"/>
