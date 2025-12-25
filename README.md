@@ -18,7 +18,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A2C2A,50:6F4E37,100:A67B5B&height=220&section=header&text=☕%20Zar%20Cafe&fontSize=60&fontColor=FFF8DC&animation=twinkling&fontAlignY=35&desc=✨%20Management%20System%20✨&descAlignY=55&descSize=22&descColor=DEB887&stroke=FFF8DC&strokeWidth=2"/>
 
 <!-- 🎪 MARQUEE ANNOUNCEMENT TICKER 🎪 -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=14&duration=1500&pause=100&color=FFD700&center=true&vCenter=true&width=800&height=30&lines=🚀+NOW+AVAILABLE+v2.0+•+WALLET+SYSTEM+•+ORDER+HISTORY+•+PROFILE+DASHBOARD+🚀;⭐+STAR+THIS+REPO+•+FORK+IT+•+SHARE+WITH+FRIENDS+•+CONTRIBUTE+⭐;☕+BUILT+WITH+LOVE+%26+COFFEE+•+6+DEVELOPERS+•+5000%2B+LINES+OF+CODE+☕" alt="Marquee" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=14&duration=1500&pause=100&color=FFD700&center=true&vCenter=true&width=800&height=30&lines=%F0%9F%9A%80+NOW+AVAILABLE+v2.0+%E2%80%A2+WALLET+SYSTEM+%E2%80%A2+ORDER+HISTORY+%E2%80%A2+PROFILE+DASHBOARD+%F0%9F%9A%80;%E2%AD%90+STAR+THIS+REPO+%E2%80%A2+FORK+IT+%E2%80%A2+SHARE+WITH+FRIENDS+%E2%80%A2+CONTRIBUTE+%E2%AD%90;%E2%98%95+BUILT+WITH+LOVE+%26+COFFEE+%E2%80%A2+6+DEVELOPERS+%E2%80%A2+5000%2B+LINES+OF+CODE+%E2%98%95" alt="Marquee" />
 
 <!-- 🌟 EPIC WELCOME ANIMATION 🌟 -->
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=2500&pause=1000&color=6F4E37&center=true&vCenter=true&width=600&height=70&lines=%E2%98%95+WELCOME+TO+ZAR+CAFE+%E2%98%95;%F0%9F%8C%9F+The+Best+POS+System+%F0%9F%8C%9F;%F0%9F%9A%80+Built+with+Love+%26+Coffee+%F0%9F%9A%80" alt="Welcome Animation" />
@@ -310,7 +310,7 @@ The application follows a structured user flow with **alphabetical prefixes (A �
 
 <!-- 🌊 WAVE TEXT EFFECT 🌊 -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&duration=2000&pause=500&color=6F4E37&center=true&vCenter=true&width=500&height=60&lines=🚀+KEY+FEATURES" alt="Key Features" />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&duration=2000&pause=500&color=6F4E37&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%9A%80+KEY+FEATURES" alt="Key Features" />
 </div>
 
 <!-- 📊 ANIMATED STATS COUNTER 📊 -->
@@ -384,20 +384,20 @@ The application follows a structured user flow with **alphabetical prefixes (A �
 
 <!-- 💎 CRYSTAL DIAMOND DIVIDER 💎 -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="20"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="25"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="30"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="35"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="40"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="35"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="30"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="25"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="20"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="20"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="25"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="35"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="40"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="35"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="25"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="20"/>
 </div>
 
 <!-- ⚡ NEON GLOW TEXT ⚡ -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=400&height=50&lines=🛠️+TECH+STACK" alt="Tech Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=400&height=50&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK" alt="Tech Stack" />
 </div>
 
 <div align="center">
@@ -657,7 +657,7 @@ erDiagram
 
 <!-- 🎮 INTERACTIVE TROUBLESHOOTING SECTION 🎮 -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2000&pause=1000&color=FF6347&center=true&vCenter=true&width=350&height=40&lines=❓+TROUBLESHOOTING" alt="Troubleshooting" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2000&pause=1000&color=FF6347&center=true&vCenter=true&width=350&height=40&lines=%E2%9D%93+TROUBLESHOOTING" alt="Troubleshooting" />
 </div>
 
 <!-- 🎮 GAME-STYLE ERROR BADGES 🎮 -->
@@ -760,16 +760,16 @@ Contributions are welcome! Here's how you can help:
 <div align="center">
 
 <!-- 💎 CRYSTAL DIVIDER 💎 -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="15"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="20"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="25"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="30"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="25"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="20"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Gem%20Stone.png" width="15"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="15"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="20"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="25"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="30"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="25"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="20"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="15"/>
 
 <!-- 🌊 WAVE TITLE 🌊 -->
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=2000&pause=1000&color=6F4E37&center=true&vCenter=true&width=500&height=50&lines=✨+Meet+The+Amazing+Team+✨;The+Dream+Team+🚀;Powered+by+Coffee+☕" alt="Team" />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=30&duration=2000&pause=1000&color=6F4E37&center=true&vCenter=true&width=500&height=50&lines=%E2%9C%A8+Meet+The+Amazing+Team+%E2%9C%A8;The+Dream+Team+%F0%9F%9A%80;Powered+by+Coffee+%E2%98%95" alt="Team" />
 
 <!-- 🏃 BOUNCING TEAM EMOJIS 🏃 -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" width="35"/>
@@ -864,7 +864,7 @@ gantt
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2bc.gif" width="100"/>
 
 <!-- 🌊 WAVE EFFECT TITLE 🌊 -->
-<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=2000&pause=1000&color=6F4E37&center=true&vCenter=true&width=400&height=40&lines=☕+COFFEE+TIME+☕;Fun+Facts+Inside!+🎯" alt="Coffee" />
+<img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=2000&pause=1000&color=6F4E37&center=true&vCenter=true&width=400&height=40&lines=%E2%98%95+COFFEE+TIME+%E2%98%95;Fun+Facts+Inside!+%F0%9F%8E%AF" alt="Coffee" />
 
 </div>
 
