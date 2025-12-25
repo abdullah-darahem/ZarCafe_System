@@ -35,7 +35,7 @@
 Dec 2025
 </td>
 <td align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Check%20Mark%20Button.png" width="40"/><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" width="40"/><br>
 <b>Status</b><br>
 Completed
 </td>
@@ -59,6 +59,14 @@ Desktop
 
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=abdullah-darahem-zarcafe&label=Visitors&color=6F4E37&style=for-the-badge" alt="visitors"/>
+
+<!-- 🐍 ANIMATED CONTRIBUTION SNAKE 🐍 -->
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 <!-- 🎉 ANIMATED CELEBRATION 🎉 -->
 <br><br>
@@ -85,6 +93,16 @@ Desktop
 [![GitHub stars](https://img.shields.io/github/stars/abdullah-darahem/ZarCafe_System?style=social)](https://github.com/abdullah-darahem/ZarCafe_System/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/abdullah-darahem/ZarCafe_System?style=social)](https://github.com/abdullah-darahem/ZarCafe_System/network/members)
 [![GitHub watchers](https://img.shields.io/github/watchers/abdullah-darahem/ZarCafe_System?style=social)](https://github.com/abdullah-darahem/ZarCafe_System/watchers)
+
+<!-- 🎧 CODING MUSIC VIBES 🎧 -->
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="30"/>
+<b>Our Coding Soundtrack:</b> Lo-fi Hip Hop Beats 🎵
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Headphone.png" width="30"/>
+<br><br>
+
+<!-- 💬 MOTIVATIONAL QUOTE 💬 -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Random Dev Quote"/>
 
 <p align="center">
   <strong>A college-level Point of Sale (POS) desktop application developed as a software engineering project.</strong><br>
@@ -181,6 +199,10 @@ Desktop
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="30"/>
 <br>
 <b>⭐⭐⭐⭐⭐ 5/5 - LEGENDARY QUALITY ⭐⭐⭐⭐⭐</b>
+
+<!-- 🎖️ GITHUB PROFILE TROPHY 🎖️ -->
+<br><br>
+<img src="https://github-profile-trophy.vercel.app/?username=abdullah-darahem&theme=monokai&no-frame=true&no-bg=true&margin-w=4&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -658,6 +680,34 @@ Contributions are welcome! Here's how you can help:
 <!-- ✨ ANIMATED GRADIENT LINE ✨ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## 📅 Development Timeline
+
+<div align="center">
+
+```mermaid
+gantt
+    title Zar Cafe Development Journey ☕
+    dateFormat  YYYY-MM-DD
+    section Planning
+    Requirements Analysis    :done, 2025-12-01, 3d
+    Database Design         :done, 2025-12-04, 2d
+    section Development
+    Core Backend            :done, 2025-12-06, 5d
+    User Interface          :done, 2025-12-11, 4d
+    Admin Module            :done, 2025-12-15, 3d
+    section Enhancement
+    Wallet System           :done, 2025-12-18, 2d
+    Testing & Bug Fixes     :done, 2025-12-20, 3d
+    section Release
+    Documentation           :done, 2025-12-23, 1d
+    Final Release v2.0      :milestone, 2025-12-24, 0d
+```
+
+</div>
+
+<!-- ✨ ANIMATED GRADIENT LINE ✨ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## 🎉 Fun Facts
 
 <div align="center">
@@ -683,6 +733,10 @@ Contributions are welcome! Here's how you can help:
 | 🎨 The UI was redesigned 5 times before we got it right |
 | 💡 The name "Zar" comes from team brainstorming session |
 | 🎵 Lo-fi hip hop was our coding soundtrack |
+
+<!-- 🎮 RANDOM JOKE API 🎮 -->
+<br>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 
 ---
 
