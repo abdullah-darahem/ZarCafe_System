@@ -534,40 +534,28 @@ Contributions are welcome! Here's how you can help:
     <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/><br>
       <b>Abdullah Darahem</b><br>
-      <sub>👑 Lead Developer</sub><br>
-      <sub>☕ Coffee Lover #1</sub>
     </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/><br>
       <b>Zeyad Salim</b><br>
-      <sub>💻 Developer</sub><br>
-      <sub>🎨 UI Expert</sub>
     </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/><br>
       <b>Rana Ehgannam</b><br>
-      <sub>💻 Developer</sub><br>
-      <sub>🗄️ Database Pro</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/><br>
       <b>Rewan Reda</b><br>
-      <sub>💻 Developer</sub><br>
-      <sub>🧪 Tester</sub>
     </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/><br>
       <b>Rawaa Elsayed</b><br>
-      <sub>💻 Developer</sub><br>
-      <sub>📝 Documentation</sub>
     </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="80"/><br>
       <b>Rawan Osama</b><br>
-      <sub>💻 Developer</sub><br>
-      <sub>✨ Quality Assurance</sub>
     </td>
   </tr>
 </table>
