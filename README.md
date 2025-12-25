@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ☕ ELEGANT COFFEE HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A2C2A,50:6F4E37,100:A67B5B&height=200&section=header&text=☕%20Zar%20Cafe&fontSize=55&fontColor=FFF8DC&animation=fadeIn&fontAlignY=35&desc=Management%20System&descAlignY=55&descSize=20&descColor=DEB887"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A2C2A,50:6F4E37,100:A67B5B&height=200&section=header&text=☕%20Zar%20Cafe&fontSize=55&fontColor=FFF8DC&animation=twinkling&fontAlignY=35&desc=Management%20System&descAlignY=55&descSize=20&descColor=DEB887"/>
 
 <!-- 🌟 SCROLLING MARQUEE TEXT 🌟 -->
 <marquee behavior="scroll" direction="left" scrollamount="5">
@@ -559,13 +559,7 @@ Contributions are welcome! Here's how you can help:
 
 <div align="center">
 
-<!-- Animated Team Banner -->
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="700">
-
 ### ✨ Meet the Amazing Team Behind Zar Cafe ✨
-
-<!-- Fun Team Quote -->
-> 🎯 *"Alone we can do so little; together we can do so much."* — Helen Keller
 
 <table>
   <tr>
